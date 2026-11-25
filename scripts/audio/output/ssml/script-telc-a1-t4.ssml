@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-a1-t4 | TELC A1 #4 | /audio/exams/telc/a1/telc-a1-teil4-wegbeschreibung.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Entschuldigung! Wo ist hier bitte die Post?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Das ist ganz nah. Gehen Sie hier zweihundert Meter geradeaus bis zur Ampel.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">An der Ampel gehen Sie nach links in die Bahnhofstraße. Die Post ist dann auf der rechten Seite neben dem Supermarkt.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Links an der Ampel und dann rechts neben dem Supermarkt. Vielen Dank!</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

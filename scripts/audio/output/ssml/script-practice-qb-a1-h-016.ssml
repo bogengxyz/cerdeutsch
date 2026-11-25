@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-016 | PRACTICE A1 #20 | /audio/practice/a1/qb-a1-h-016.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Hallo, bist du neu hier? Ich bin Marco.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Hi Marco, ich heiße Tom und bin aus Brasilien. Ich wohne seit drei Wochen hier in Leipzig.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Super, willkommen im Team! Sprichst du schon ein bisschen Deutsch?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Ja, ich besuche jeden Morgen einen Kurs und verstehe schon viel.</prosody>
+  </voice>
+</speak>

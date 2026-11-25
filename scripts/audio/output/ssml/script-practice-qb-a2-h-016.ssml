@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-016 | PRACTICE A2 #20 | /audio/practice/a2/qb-a2-h-016.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Verehrte Kundinnen und Kunden, herzlich willkommen bei Kaufhaus Stern! Nur an diesem Freitag und Samstag schenken wir Ihnen in unserer Sport- und Outdoorabteilung im dritten Obergeschoss 30 Prozent Rabatt auf alle Winterjacken, Mützen und Handschuhe. Außerdem finden Sie im Erdgeschoss neben dem Haupteingang hochwertige Lederschuhe zu stark reduzierten Preisen. Für unsere Kundenkarten-Inhaber gibt es heute an unserer Kaffeebar im vierten Stock eine Tasse Cappuccino kostenlos. Wir wünschen Ihnen viel Freude beim Einkauf!</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-035 | PRACTICE B2 #39 | /audio/practice/b2/qb-b2-h-035.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Immer mehr Menschen schalten Push-Benachrichtigungen für Nachrichten komplett aus, weil sie sich von endlosen Krisen-Eilmeldungen überfordert fühlen. Frau Dr. Weber, gefährdet diese Nachrichtenmüdigkeit unsere Informiertheit?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Verständlich ist diese Reaktion absolut! Dauernde Schockmeldungen im Minutentakt erzeugen Hilflosigkeit statt Orientierung. Sinnvoller als völliger Rückzug ist allerdings ein bewusster Medienrhythmus: Einmal morgens eine verlässliche Zusammenfassung lesen oder hören, konstruktive Lösungsberichte mitberücksichtigen – und abends mindestens eine Stunde vor dem Schlafen das Nachrichten-Feed schließen.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-001 | PRACTICE B2 #5 | /audio/practice/b2/qb-b2-h-001.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Herr Dr. Lindner, in Ihrer Notaufnahme testen Sie seit sechs Monaten Echtzeit-Übersetzungsgeräte für Erstgespräche. Haben diese Geräte menschliche Dolmetscher ersetzt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Nein, keinesfalls vollständig. Bei einfachen Fragen zu Schmerzen, Allergien oder Vorerkrankungen leisten die Geräte nachts um drei Uhr jedoch wertvolle Überbrückungshilfe, wenn kein Dolmetscher sofort vor Ort ist.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Wo liegen aus medizinischer Sicht die größten Risiken?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Vor allem bei feinen Nuancen, Dialekten oder emotional belastenden Aufklärungsgesprächen vor Operationen. Sobald rechtliche Einwilligungen unterschrieben werden müssen, schalten wir verpflichtend zertifizierte Videodolmetscherinnen zu, damit Missverständnisse ausgeschlossen bleiben.</prosody>
+  </voice>
+</speak>

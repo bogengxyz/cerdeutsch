@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-039 | PRACTICE A1 #43 | /audio/practice/a1/qb-a1-h-039.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Hallo Fabian, mein Flugzeug aus Zürich landet heute Abend pünktlich um 19:40 Uhr am Terminal 2. Mit meinem Koffer brauche ich wahrscheinlich bis Viertel nach acht. Kannst du um 20:15 Uhr draußen vor Ausgang B stehen? Bis gleich!</prosody>
+  </voice>
+</speak>

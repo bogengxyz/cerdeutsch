@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-b1-hoeren-4 | PRACTICE B1 #4 | /audio/practice/b1/b1-hoeren-4.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Jonas, du lernst seit sechs Monaten Spanisch im Tandem. Wie funktioniert das genau?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Ich treffe mich einmal pro Woche mit Lucia aus Madrid. Wir sprechen 30 Minuten lang Deutsch und danach 30 Minuten Spanisch. Am Anfang hatte ich Angst, Fehler zu machen, aber Lucia korrigiert mich immer freundlich. Wichtig ist nur, dass man vorher ein kleines Thema festlegt, sonst redet man nur über das Wetter.</prosody>
+  </voice>
+</speak>

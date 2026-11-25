@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-003 | PRACTICE B1 #7 | /audio/practice/b1/qb-b1-h-003.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Marketingabteilung, Claudia Weber am Apparat.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Guten Morgen Frau Weber, hier ist Jonas. Es tut mir leid, aber ich habe seit heute Nacht starkes Fieber und Halsschmerzen und kann heute nicht ins Büro kommen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Ach je, gute Besserung erst einmal! Warst du schon beim Arzt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Ich habe um 10:15 Uhr einen Termin in der Hausarztpraxis und melde mich danach sofort, wie lange ich krankgeschrieben bin. Wichtig wegen heute Nachmittag: Die Präsentation für den Kunden „Nordlicht“ liegt bereits fertig im gemeinsamen Projektordner, und Lukas weiß über alle Zahlen Bescheid.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Perfekt, danke, dass du daran gedacht hast! Dann übernimmt Lukas den Termin um 14 Uhr. Ruh dich jetzt aus und trink viel Tee.</prosody>
+  </voice>
+</speak>

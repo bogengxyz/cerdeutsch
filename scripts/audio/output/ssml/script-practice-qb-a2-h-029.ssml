@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-029 | PRACTICE A2 #33 | /audio/practice/a2/qb-a2-h-029.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Guten Morgen! Was darf es heute Schönes sein?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Guten Morgen! Ich hätte gern ein Kilo rote Kartoffeln, aber bitte eine festkochende Sorte für Bratkartoffeln. Und wie sind Ihre Äpfel heute?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Die „Elstar“-Äpfel kommen direkt aus unserer Region und sind schön knackig und leicht säuerlich — das Kilo kostet heute im Angebot 2,80 Euro.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Dann nehme ich bitte anderthalb Kilo Äpfel und noch ein Bund frische Petersilie dazu.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Gern! Zusammen macht das genau sieben Euro zwanzig.</prosody>
+  </voice>
+</speak>

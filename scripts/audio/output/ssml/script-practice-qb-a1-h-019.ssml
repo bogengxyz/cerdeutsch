@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-019 | PRACTICE A1 #23 | /audio/practice/a1/qb-a1-h-019.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Praxis Dr. Klein, guten Tag.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Guten Tag, hier spricht Jan Becker. Ich möchte bitte einen Termin für nächste Woche.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Am Mittwoch, dem 14. Mai, ist um 15:20 Uhr noch etwas frei. Passt das?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Ja, perfekt!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Darf ich noch Ihre Nummer für Rückfragen haben?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Ja, 0152 883419.</prosody>
+  </voice>
+</speak>

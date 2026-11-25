@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-037 | PRACTICE B2 #41 | /audio/practice/b2/qb-b2-h-037.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Klassische Hausaufgaben am Nachmittag verstärken oft Bildungsungleichheit: Während einige Kinder ein ruhiges Zimmer und elterliche Hilfe haben, teilen sich andere einen Küchentisch mit kleinen Geschwistern. Eine Gesamtschule in Bremen hat deshalb klassische Hausaufgaben weitgehend abgeschafft und durch tägliche „Lernzeiten“ am frühen Nachmittag ersetzt.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">In diesen siebzig Minuten arbeiten unsere Schülerinnen selbstständig an Wochenplänen, während zwei Fachlehrkräfte im Raum sofort kleine Blockaden lösen. Am späten Nachmittag bleibt dann wirklich freie Zeit für Sportverein, Musik oder Familie – und die abendlichen Konflikte am Küchentisch fallen weg.</prosody>
+  </voice>
+</speak>

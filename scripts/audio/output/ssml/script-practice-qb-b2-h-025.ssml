@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-025 | PRACTICE B2 #29 | /audio/practice/b2/qb-b2-h-025.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Dozent: Ein häufiges Argument lautet: „Warum sollten Schülerinnen heute noch geschichtliche Jahreszahlen oder naturwissenschaftliche Grundgesetze auswendig lernen, wenn jedes Smartphone sie in einer Sekunde nachschlagen kann?“
+Die Kognitionsforschung gibt darauf eine klare Antwort: Unser Arbeitsgedächtnis kann gleichzeitig nur sehr wenige neue Informationen verarbeiten. Wer über ein solides Netz an Grundwissen im Langzeitgedächtnis verfügt, erkennt Widersprüche in Zeitungsartikeln sofort, stellt präzisere Suchanfragen und durchschaut irreführende Zahlen. Ohne Vorwissen merkt man nicht einmal, wenn eine Suchmaschine oder ein Sprachmodell eine falsche Antwort liefert.</prosody>
+  </voice>
+</speak>

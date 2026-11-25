@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-034 | PRACTICE A2 #38 | /audio/practice/a2/qb-a2-h-034.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Hallo Lisa, vielen Dank noch einmal, dass du während unseres zehntägigen Urlaubs nach unserer Wohnung schaust! Hier ist der Wohnungsschlüssel.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Sehr gern, Herr Weber! Wie oft soll ich die Blumen auf dem Balkon gießen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Bei diesem warmen Wetter am besten jeden zweiten Abend. Die grüne Gießkanne steht schon gefüllt in der Küche neben der Balkontür. Im Flur liegt außerdem unser Briefkastenschlüssel — es wäre toll, wenn du die Zeitungen und Briefe einfach auf den Küchentisch legst.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Alles klar! Guten Flug nach Kreta und erholen Sie sich gut!</prosody>
+  </voice>
+</speak>

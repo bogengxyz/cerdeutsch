@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-007 | PRACTICE B2 #11 | /audio/practice/b2/qb-b2-h-007.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Bei Kommunal- und Europawahlen dürfen Sechzehnjährige in manchen Ländern bereits abstimmen. Frau Mai, warum plädieren Sie auch bei Bundestagswahlen für ein Wahlrecht ab sechzehn?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Junge Menschen tragen die Folgen von Klima-, Renten- und Bildungspolitik am längsten. Außerdem zeigt die Forschung: Wer mit sechzehn erstmals wählt, meist noch im Elternhaus und begleitet durch den Schulunterricht, entwickelt viel stabiler eine lebenslange Wahlgewohnheit als jemand, der mit neunzehn mitten im Umzug zum Studium steht.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Ich teile den Wunsch nach Beteiligung, gebe aber zu bedenken, dass mit achtzehn aus gutem Grund volle Volljährigkeit, Strafmündigkeit und Vertragsfähigkeit beginnen. Rechte und Pflichten sollten in einem einheitlichen Alter zusammenfallen.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-013 | PRACTICE B2 #17 | /audio/practice/b2/qb-b2-h-013.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Jeden ersten Samstag duftet es im Gemeindesaal nach frischem Filterkaffee – und gleichzeitig nach Lötzinn. Im Reparatur-Café sitzen Seniorinnen, Studierende und gelernte Elektriker gemeinsam über defekten Toastern, Nähmaschinen oder Staubsaugern.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Unser Prinzip lautet „Hilfe zur Selbsthilfe“: Wir nehmen kein Gerät einfach an der Tür ab, sondern die Besitzerin schaut zu, schraubt mit und lernt, wie man zum Beispiel ein gebrochenes Kabel sicher ersetzt. Rund zwei Drittel aller mitgebrachten Geräte funktionieren am Nachmittag wieder – und nebenbei entstehen echte Nachbarschaftsgespräche bei Kaffee und Kuchen.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-017 | PRACTICE B2 #21 | /audio/practice/b2/qb-b2-h-017.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Während der letzten Jahre wurden fast alle Vorlesungen aufgezeichnet und online bereitgestellt. Warum fordern viele Hochschulen jetzt trotzdem wieder echte Präsenz auf dem Campus?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Reine Wissensvermittlung funktioniert im Video tatsächlich hervorragend – man kann zurückspulen und in eigenem Tempo notieren. Entscheidend für tiefes Verstehen ist jedoch das Konzept des „Inverted Classroom“: Die Studierenden schauen sich das Grundlagenvideo vorab an und nutzen die gemeinsame Präsenzzeit für Fallstudien, kritische Rückfragen und lebhafte Diskussionen in Kleingruppen. Allein vor dem Laptop merkt man oft gar nicht, welche Denkfehler man macht.</prosody>
+  </voice>
+</speak>

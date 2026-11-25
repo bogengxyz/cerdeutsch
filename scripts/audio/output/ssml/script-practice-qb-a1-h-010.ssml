@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-010 | PRACTICE A1 #14 | /audio/practice/a1/qb-a1-h-010.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Chefin: Guten Morgen, Lukas, schön dass du da bist! Zieh bitte zuerst die weiße Schürze dort am Haken an. Deine erste Aufgabe heute: Lege die frischen Croissants und Brezeln in den Verkaufskorb. Um halb zehn machen wir dann zusammen eine kleine Kaffeepause von fünfzehn Minuten.</prosody>
+  </voice>
+</speak>

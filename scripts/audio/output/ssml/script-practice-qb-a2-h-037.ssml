@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-037 | PRACTICE A2 #41 | /audio/practice/a2/qb-a2-h-037.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Emre, wollen wir am Freitagabend ins Kino gehen? Im Filmtheater am Bahnhof läuft eine neue Komödie um 19:45 Uhr und um 21:30 Uhr.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">21:30 Uhr ist mir zu spät, weil ich am Samstag früh raus muss. Um 19:45 Uhr klingt super! Soll ich online zwei Plätze reservieren?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Ja, bitte möglichst nicht ganz vorne in der ersten Reihe — Reihe sechs oder sieben in der Mitte wäre ideal. Treffen wir uns schon um Viertel nach sieben vor der Kasse, damit wir noch Popcorn holen können?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Abgemacht! Ich buche gleich die Karten.</prosody>
+  </voice>
+</speak>

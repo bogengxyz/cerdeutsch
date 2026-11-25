@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a2-hoeren-4 | PRACTICE A2 #4 | /audio/practice/a2/a2-hoeren-4.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Und hier der aktuelle Verkehrsservice für den Großraum Köln: Auf der A3 Richtung Frankfurt gibt es zwischen Leverkusen und Köln-Ost wegen einer Baustelle sechs Kilometer Stau. Bitte fahren Sie ab der Ausfahrt Leverkusen über die B8. In der Innenstadt ist die Nordbrücke heute bis 16 Uhr für Busse und Taxis frei, für Pkw jedoch gesperrt.</prosody>
+  </voice>
+</speak>

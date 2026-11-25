@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-024 | PRACTICE A2 #28 | /audio/practice/a2/qb-a2-h-024.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Hi Julia, ich stehe gerade schon im Supermarkt. Was fehlt uns noch für das Gemüsecurry heute Abend?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Super, dass du anrufst! Ich habe gerade in den Kühlschrank geschaut: Karotten, Reis und Kokosmilch haben wir noch genug. Aber wir brauchen unbedingt zwei rote Paprika, frischen Ingwer und eine Packung Tofu. Außerdem ist unser Olivenöl fast leer.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Alles klar, schreibe ich mir auf! Soll ich auch noch Brot für morgen früh mitbringen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Ja, gern ein kleines Vollkornbrot — aber bitte keine Brötchen, die backen wir am Sonntag selbst auf.</prosody>
+  </voice>
+</speak>

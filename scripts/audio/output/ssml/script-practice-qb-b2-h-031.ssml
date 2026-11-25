@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-031 | PRACTICE B2 #35 | /audio/practice/b2/qb-b2-h-031.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">In Frankreich oder Spanien bekommt man zum Essen ganz selbstverständlich eine Karaffe Leitungswasser gratis auf den Tisch. Warum berechnen viele Restaurants in Deutschland dafür vier Euro? Herr Wolf vom Gaststättenverband?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Viele Gäste unterschätzen unsere Fixkosten: Getränke tragen im deutschen Restaurant oft einen großen Teil zu Personal-, Miet- und Energiekosten bei, damit die Speisen kalkulierbar bleiben. Trotzdem bieten immer mehr Betriebe im Rahmen der Aktion „Refill“ kostenloses Leitungswasser an, sobald man ein Hauptgericht bestellt – das ist ein fairer Kompromiss zwischen Gastfreundschaft und Wirtschaftlichkeit.</prosody>
+  </voice>
+</speak>

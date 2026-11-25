@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-015 | PRACTICE A2 #19 | /audio/practice/a2/qb-a2-h-015.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Fundbüro der Stadt Mannheim, guten Tag!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Guten Tag, mein Name ist Tariq Al-Mansoor. Ich habe heute Morgen in der Straßenbahn Linie 5 meinen schwarzen Ledergeldbeutel verloren. Ist der vielleicht schon abgegeben worden?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Einen kleinen Moment, ich schaue im System nach... Ja! Ein Fahrer hat vor einer Stunde einen schwarzen Geldbeutel mit einem Führerschein auf den Namen Tariq Al-Mansoor gemeldet. Das Bargeld von 35 Euro ist ebenfalls noch drin!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Zum Glück! Wann kann ich ihn abholen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Heute bis 16 Uhr oder morgen ab 8:30 Uhr im Rathaus, Schalter 4. Bitte bringen Sie einen zweiten Ausweis oder Reisepass zur Kontrolle mit.</prosody>
+  </voice>
+</speak>

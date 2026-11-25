@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-023 | PRACTICE B2 #27 | /audio/practice/b2/qb-b2-h-023.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Herr Prof. König, jahrzehntelang galt Dialekt in vielen Schulen und Büros als Zeichen mangelnder Bildung. Heute erleben Bairisch, Plattdeutsch oder Kölsch in Musik, Podcasts und Jugendkultur einen Aufschwung. Woher kommt dieser Wandel?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Lange dachte man, Kinder hätten durch Dialekt Nachteile beim Lesen- und Schreibenlernen. Neuere Sprachstudien zeigen jedoch das Gegenteil: Wer zwischen zwei sprachlichen Varietäten – also Dialekt zu Hause und Standarddeutsch im Beruf – flexibel wechseln kann, trainiert sein Gehirn ähnlich wie zweisprachige Menschen. Entscheidend ist nicht, auf den Dialekt zu verzichten, sondern beide Register sicher zu beherrschen.</prosody>
+  </voice>
+</speak>

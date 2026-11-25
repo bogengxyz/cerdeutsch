@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-038 | PRACTICE B1 #42 | /audio/practice/b1/qb-b1-h-038.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Viele Jugendliche sitzen nach sieben Stunden Unterricht abends noch zwei Stunden an Arbeitsblättern. Wer keine Unterstützung von den Eltern bekommt, hat oft Nachteile. An Ganztagsschulen sollte alles Üben in der Schule stattfinden!</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Ich verstehe den Druck, Lukas, aber komplettes Abschaffen halte ich für den falschen Weg. Kurze, sinnvolle Übungen von zwanzig Minuten – zum Beispiel ein paar Vokabeln wiederholen oder ein kurzes Kapitel lesen – helfen dem Gehirn, den Stoff im Langzeitgedächtnis zu speichern. Statt Hausaufgaben zu verbieten, sollten wir Lehrkräfte besser absprechen, dass nicht am selben Tag in drei Fächern riesige Aufgaben aufgegeben werden.</prosody>
+  </voice>
+</speak>

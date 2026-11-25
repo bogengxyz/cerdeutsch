@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a2-t3 | GOETHE A2 #3 | /audio/exams/goethe/a2/goethe-a2-teil3-gesundheit.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Guten Tag! Wie kann ich Ihnen helfen?</prosody>
+    <break time="550ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Guten Tag! Ich habe seit gestern starke Halsschmerzen und leichten Husten. Fieber habe ich aber nicht.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Dann empfehle ich Ihnen diese Lutschtabletten mit Salbei. Nehmen Sie bitte dreimal täglich eine Tablette nach dem Essen.</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Muss ich sonst noch etwas beachten?</prosody>
+    <break time="550ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Trinken Sie viel warmen Tee und schonen Sie Ihre Stimme. Wenn es nach drei Tagen nicht besser wird, gehen Sie bitte zum Arzt.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

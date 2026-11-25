@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a1-hoeren-1 | PRACTICE A1 #1 | /audio/practice/a1/a1-hoeren-1.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Achtung am Gleis 4: Der Regionalexpress nach Hamburg, planmäßige Abfahrt 14:20 Uhr, fährt heute zehn Minuten später von Gleis 7 ab. Wir bitten um Entschuldigung.</prosody>
+  </voice>
+</speak>

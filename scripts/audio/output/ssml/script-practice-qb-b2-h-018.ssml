@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-018 | PRACTICE B2 #22 | /audio/practice/b2/qb-b2-h-018.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Ein Wald besteht nicht aus isolierten Einzelkämpfern, die nur um Sonnenlicht konkurrieren. Unter der Walderde verbinden hauchdünne Pilzfäden – sogenannte Mykorrhiza-Netzwerke – die Wurzeln verschiedener Bäume miteinander. In diesem Austausch erhalten die Pilze von den Bäumen Zucker aus der Photosynthese und liefern im Gegenzug Wasser sowie wichtige Mineralstoffe aus dem Boden.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Besonders beeindruckend ist, dass große Mutterbäume beschattete Jungpflanzen über dieses Netzwerk mit Nährstoffen mitversorgen oder bei Schädlingsbefall chemische Warnsignale weiterleiten. Werden Wälder allerdings durch schwere Forstmaschinen stark verdichtet, brechen diese feinen Pilzverbindungen auseinander.</prosody>
+  </voice>
+</speak>

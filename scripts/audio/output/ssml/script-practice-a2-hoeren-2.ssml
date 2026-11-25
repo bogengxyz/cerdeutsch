@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a2-hoeren-2 | PRACTICE A2 #2 | /audio/practice/a2/a2-hoeren-2.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Hier ist der Verkehrsservice: Auf der Autobahn A3 Richtung Frankfurt gibt es zwischen Wiesbaden und dem Flughafen wegen einer Baustelle 20 Minuten Stau. Außerdem fährt die S-Bahn-Linie S8 heute wegen Bauarbeiten nur alle 30 Minuten.</prosody>
+  </voice>
+</speak>

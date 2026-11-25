@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-004 | PRACTICE B1 #8 | /audio/practice/b1/qb-b1-h-004.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Liebe Fahrgäste, hier spricht Ihr Zugchef. Aufgrund kurzfristiger Bauarbeiten auf der Schnellfahrstrecke müssen wir heute leider zwischen Göttingen und Kassel-Wilhelmshöhe eine Umleitung fahren. Unsere Ankunft in Frankfurt Hauptbahnhof verzögert sich dadurch voraussichtlich um etwa dreißig Minuten. Reisende mit Anschlusszügen nach Stuttgart oder Basel beachten bitte: Der ICE um 15:12 Uhr kann leider nicht warten, die nächste Verbindung nach Stuttgart fährt jedoch um 15:52 Uhr von Gleis 7. Ihre Zugbindung ist aufgehoben, Sie können also flexibel den nächsten Zug nehmen. Im Bordbistro erhalten Sie ab sofort kostenlose Heißgetränke. Wir bitten vielmals um Entschuldigung für die Umstände.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a1-hoeren-4 | PRACTICE A1 #4 | /audio/practice/a1/a1-hoeren-4.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Guten Tag, hier ist die Zahnarztpraxis Dr. Lindner. Unsere Praxis ist heute wegen einer Fortbildung geschlossen. Ab morgen früh um 08:30 Uhr sind wir wieder für Sie da. In dringenden Notfällen rufen Sie bitte die Nummer 030 458912 an. Vielen Dank!</prosody>
+  </voice>
+</speak>

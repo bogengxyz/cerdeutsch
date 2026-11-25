@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-010 | PRACTICE B2 #14 | /audio/practice/b2/qb-b2-h-010.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Frau Beck und Frau Albers, Sie leiten gemeinsam eine Marketingabteilung mit achtzehn Mitarbeitenden – jede in sechzig Prozent Teilzeit. Wie verhindern Sie, dass Informationen zwischen Ihnen verloren gehen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Unser Geheimnis heißt „Tandem-Übergabe“: Jeden Mittwochvormittag arbeiten wir vier Stunden parallel, stimmen Strategien ab und führen ein gemeinsames Entscheidungsprotokoll. Entscheidungen unterhalb einer festgelegten Budgetgrenze darf jede allein treffen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Am Anfang fürchtete unser Team zwei widersprüchliche Stimmen. Inzwischen schätzt es genau die doppelte Perspektive – und bei Urlaub oder Krankheit steht die Leitung niemals still.</prosody>
+  </voice>
+</speak>

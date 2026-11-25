@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-013 | PRACTICE A1 #17 | /audio/practice/a1/qb-a1-h-013.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Nächster Halt: Hauptbahnhof. Ausstieg in Fahrtrichtung rechts. Sie haben Anschluss an die S-Bahn Linie S2 nach Ostkreuz sowie an den Bus 140 zum Flughafen. Bitte achten Sie beim Aussteigen auf Ihre Gepäckstücke und vergessen Sie nichts im Wagen.</prosody>
+  </voice>
+</speak>

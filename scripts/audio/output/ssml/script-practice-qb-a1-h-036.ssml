@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-036 | PRACTICE A1 #40 | /audio/practice/a1/qb-a1-h-036.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Kerstin, wann wollen wir über die neue Präsentation sprechen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Am Montag habe ich um 10 Uhr leider schon einen Kundentermin. Wie wäre es am Dienstag um 11 Uhr im Besprechungsraum B?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Dienstag 11 Uhr passt wunderbar! Ich bringe meinen Laptop und die Zahlen vom März mit.</prosody>
+  </voice>
+</speak>

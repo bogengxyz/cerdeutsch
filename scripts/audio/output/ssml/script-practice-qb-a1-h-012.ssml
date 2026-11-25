@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-012 | PRACTICE A1 #16 | /audio/practice/a1/qb-a1-h-012.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Löwen-Apotheke, guten Tag!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Guten Tag, mein Sohn hat seit heute Morgen Ohrenschmerzen und 38,5 Grad Fieber. Haben Sie einen Fiebersaft für Kinder da?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Ja, der ist vorrätig. Aber bei Ohrenschmerzen und Fieber sollten Sie heute noch zu einem Kinderarzt gehen. Wir haben bis 18:30 Uhr geöffnet.</prosody>
+  </voice>
+</speak>

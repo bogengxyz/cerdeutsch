@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-006 | PRACTICE B2 #10 | /audio/practice/b2/qb-b2-h-006.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="+4%">Trainerin: Stellen Sie sich zwei Abteilungen vor, die sich um denselben Besprechungsraum für Dienstagvormittag streiten. Beide beharren starr auf ihren Positionen: „Wir brauchen den Raum!“ Wenn Sie so verhandeln, verliert am Ende eine Seite.
+Im Harvard-Konzept fragen wir stattdessen nach dem dahinterliegenden Interesse: Warum brauchen Sie genau diesen Raum? Dann stellt sich oft heraus: Team A braucht lediglich eine schalldichte Videowand für eine Kundenschaltung, während Team B gar keine Technik benötigt, sondern einen großen Tisch für zehn Personen mit Tageslicht. Plötzlich finden wir zwei verschiedene Räume, und beide Teams verlassen das Gespräch als Gewinner.</prosody>
+  </voice>
+</speak>

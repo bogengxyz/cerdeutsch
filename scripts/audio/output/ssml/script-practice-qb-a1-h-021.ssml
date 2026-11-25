@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-021 | PRACTICE A1 #25 | /audio/practice/a1/qb-a1-h-021.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Hannah, hast du eine große Familie?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Ziemlich groß! Ich habe zwei Schwestern und einen jüngeren Bruder. Meine Eltern arbeiten beide in Dresden. Jeden ersten Sonntag im Monat besuchen wir unsere Großeltern auf dem Dorf und essen zusammen Kuchen.</prosody>
+  </voice>
+</speak>

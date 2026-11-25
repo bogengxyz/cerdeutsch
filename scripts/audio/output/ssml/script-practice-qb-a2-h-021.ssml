@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-021 | PRACTICE A2 #25 | /audio/practice/a2/qb-a2-h-021.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">So, hier sehen Sie das Schlafzimmer mit Blick in den ruhigen Innenhof. Haben Sie noch Fragen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Ja, ab wann wäre die Wohnung genau frei? Mein aktueller Mietvertrag läuft Ende Mai aus.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Das passt perfekt — der Einzug ist ab dem 1. Juni möglich. Die Einbauküche gehört zur Wohnung, nur den Kühlschrank müssten Sie selbst mitbringen. In der Garage unten können Sie außerdem für 55 Euro monatlich einen Stellplatz mieten. Im Keller gibt es zudem einen eigenen Abstellraum sowie einen gemeinsamen Fahrradkeller.</prosody>
+  </voice>
+</speak>

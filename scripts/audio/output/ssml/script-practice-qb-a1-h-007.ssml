@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-007 | PRACTICE A1 #11 | /audio/practice/a1/qb-a1-h-007.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Hallo Nora, hier ist Ben! Morgen früh muss ich leider schon um sieben aufstehen, weil ich mein Zimmer aufräumen und Wäsche waschen muss. Ab halb zwölf habe ich aber Zeit. Wollen wir zusammen im Park spazieren gehen und danach ein Eis essen? Ruf mich bis neun Uhr an!</prosody>
+  </voice>
+</speak>

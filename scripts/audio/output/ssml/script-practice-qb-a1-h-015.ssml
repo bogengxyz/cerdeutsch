@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-015 | PRACTICE A1 #19 | /audio/practice/a1/qb-a1-h-015.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Bitte legt jetzt alle Lehrbücher unter den Tisch und nehmt nur einen blauen Stift und ein leeres Blatt heraus. Ich lese jeden Satz zweimal langsam vor. Wenn ihr ein Wort nicht versteht, hebt bitte kurz die Hand. Handys bleiben ausgeschaltet in der Tasche.</prosody>
+  </voice>
+</speak>

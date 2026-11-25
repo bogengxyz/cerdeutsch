@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a2-t2 | GOETHE A2 #2 | /audio/exams/goethe/a2/teil2-gespraech.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Hallo Tim! Das Wetter soll am Wochenende richtig sonnig werden. Wollen wir am Sonntag an den See fahren?</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Oh, die Idee ist super, aber am Sonntag besuche ich meine Großeltern zum Mittagessen. Wie wäre es denn am Samstagnachmittag?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Samstag passt mir auch gut! Um vierzehn Uhr am Bahnhof? Dann nehmen wir zusammen den Bus zum Strandbad.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Abgemacht! Ich bringe zwei Flaschen Wasser und meine Kamera mit, und du?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Ich backe einen Apfelkuchen. Bis Samstag!</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-b2-hoeren-3 | PRACTICE B2 #3 | /audio/practice/b2/b2-hoeren-3.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Gutes Feedback beschreibt konkrete Beobachtungen statt pauschaler Bewertungen der Persönlichkeit. Wer beispielsweise statt „Sie sind unzuverlässig“ formuliert „Der Bericht lag am Dienstag noch nicht vor, wodurch sich die Abstimmung verzögert hat“, ermöglicht dem Gegenüber eine sachliche Reaktion.</prosody>
+  </voice>
+</speak>

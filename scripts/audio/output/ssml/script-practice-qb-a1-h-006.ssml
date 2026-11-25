@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-006 | PRACTICE A1 #10 | /audio/practice/a1/qb-a1-h-006.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Das macht zusammen 12 Euro 80. Haben Sie eine Kundenkarte?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Nein, leider nicht. Brauche ich eine Tüte? Hm, ja bitte, eine kleine Papiertüte.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Gern, die kostet 20 Cent, also genau 13 Euro. Zahlen Sie bar oder mit Karte?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Mit Karte, bitte. Brauche ich den Zettel? Nein, danke!</prosody>
+  </voice>
+</speak>

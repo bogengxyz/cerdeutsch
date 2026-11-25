@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-023 | PRACTICE A1 #27 | /audio/practice/a1/qb-a1-h-023.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Hallo Jan, hast du am Freitagabend Zeit? Im Rex-Kino läuft eine neue Komödie.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Freitagabend spiele ich Basketball bis acht Uhr. Aber am Samstagabend um 20:15 Uhr passt es super!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Perfekt, dann kaufe ich die Tickets online. Eine Karte kostet 9 Euro 50.</prosody>
+  </voice>
+</speak>

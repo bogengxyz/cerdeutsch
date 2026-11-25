@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a1-t2 | GOETHE A1 #2 | /audio/exams/goethe/a1/teil2-durchsagen.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Liebe Kundinnen und Kunden, heute erhalten Sie zwanzig Prozent Rabatt auf alle Winterjacken. Sie finden unsere Damenmode im dritten Stock und die Kindermode im zweiten Stock. Unser Café im Erdgeschoss hat heute bis zwanzig Uhr für Sie geöffnet.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

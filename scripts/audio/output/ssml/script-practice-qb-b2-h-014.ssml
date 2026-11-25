@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-014 | PRACTICE B2 #18 | /audio/practice/b2/qb-b2-h-014.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Seit unser Stadtmuseum jeden ersten Sonntag im Monat kostenlosen Eintritt anbietet, haben sich die Besucherzahlen an diesem Tag vervierfacht. Besonders Familien mit geringem Einkommen und junge Leute trauen sich endlich in die Ausstellungen, wenn kein Risiko besteht, fünfzehn Euro umsonst zu zahlen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Ich begrüße neue Zielgruppen sehr, warne aber vor dem Trugschluss, Kultur dürfe nichts kosten: Wenn an Sonntagen zu viele Menschen gleichzeitig durch enge Säle strömen, leiden Aufsicht, Sicherheit und ruhige Betrachtung. Ein solidarischer Mittelweg wäre ein sehr günstiges Jahresticket oder freier Eintritt für alle bis fünfundzwanzig Jahre.</prosody>
+  </voice>
+</speak>

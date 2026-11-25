@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-001 | PRACTICE A2 #5 | /audio/practice/a2/qb-a2-h-001.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Guten Tag, hier spricht Laura Neumann aus der Praxis für Physiotherapie am Markt. Ich rufe wegen Ihres Termins am kommenden Dienstag, den 14. November, um 10:30 Uhr an. Leider ist Herr Berger, Ihr Therapeut, kurzfristig krank geworden. Könnten wir Ihren Termin auf Donnerstag, den 16. November, um 14:15 Uhr verschieben? Dann übernimmt Frau Lindner Ihre Behandlung. Bitte rufen Sie uns bis morgen Nachmittag unter 0221 894320 zurück. Vielen Dank!</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-006 | PRACTICE A2 #10 | /audio/practice/a2/qb-a2-h-006.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Hi Mia, wie war dein Wochenende an der Ostsee?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Ach, das Wetter hat uns leider einen Strich durch die Rechnung gemacht! Am Samstag hat es ununterbrochen geregnet und gestürmt, sodass wir nicht einmal an den Strand gehen konnten.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Oh nein, was habt ihr dann gemacht?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Wir haben ein großes Zimmer im Museum für Meereskunde besucht — das Aquarium dort war echt beeindruckend. Danach haben wir vier Stunden lang in einem gemütlichen Café Karten gespielt und heißen Apfelstrudel gegessen. Am Sonntag kam dann endlich die Sonne heraus, und vor der Rückfahrt konnten wir noch zwei Stunden am Meer spazieren gehen.</prosody>
+  </voice>
+</speak>

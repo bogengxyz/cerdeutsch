@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-b2-t2 | TELC B2 #2 | /audio/exams/telc/b2/teil2-interview.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Herr Weber, viele Bauträger schrecken vor mehrstöckigem Holzbau noch zurück, weil der Rohstoff teurer wirkt als Beton. Stimmt dieses Vorurteil?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Nur auf den ersten Blick. Zwar sind einzelne vorgefertigte Holzelemente in der reinen Anschaffung etwas teurer, doch unsere Bauzeit vor Ort halbiert sich durch die präzise Vorfertigung in der Halle.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Dadurch sparen Investorinnen erhebliche Finanzierungskosten sowie Zinsen und können Gebäude deutlich früher vermieten.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

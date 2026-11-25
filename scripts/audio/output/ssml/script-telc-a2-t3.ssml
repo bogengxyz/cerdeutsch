@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-a2-t3 | TELC A2 #3 | /audio/exams/telc/a2/telc-a2-teil3-reisen.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Guten Tag! Wohin möchten Sie im Mai denn gern verreisen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Ich möchte mit meiner Familie für vier Nächte nach Salzburg fahren, am liebsten mit dem Zug.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Gern! Ich habe hier ein schönes Hotel in der Nähe des Hauptbahnhofs mit Frühstück inklusive. Die Hinfahrt kostet mit Familienrabatt nur achtundneunzig Euro.</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Das klingt super. Können wir direkt die Fensterplätze reservieren?</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

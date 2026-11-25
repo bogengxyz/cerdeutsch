@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-004 | PRACTICE A2 #8 | /audio/practice/a2/qb-a2-h-004.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Guten Tag, wie kann ich Ihnen helfen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Guten Tag! Ich habe vor drei Tagen diese graue Stoffhose hier gekauft. Zu Hause habe ich gemerkt, dass sie am Bund doch etwas zu eng sitzt. Kann ich sie gegen eine Nummer größer umtauschen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Gern! Haben Sie den Kassenbon dabei? Und ist das Etikett noch dran?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Ja, hier ist der Bon, und die Hose ist völlig ungetragen. Ich brauche Größe 34 statt 32.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Einen Moment, ich schaue kurz nach, ob wir 34 noch auf Lager haben... Ja, hier bitte! Möchten Sie sie gleich in der Kabine anprobieren?</prosody>
+  </voice>
+</speak>

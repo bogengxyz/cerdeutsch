@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-019 | PRACTICE B2 #23 | /audio/practice/b2/qb-b2-h-019.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Coach: Stellen Sie sich vor, Sie präsentieren solide Quartalszahlen, und jemand im Publikum wirft gereizt ein: „Diese Statistik ist doch völlig unrealistisch!“ Wer sich sofort rechtfertigt oder wütend zurückschießt, verliert leicht die Kontrolle über die Bühne.
+Ich empfehle die Drei-Schritt-Technik: Erstens drei Sekunden durchatmen und den Blick ruhig halten. Zweitens den Kern der Kritik sachlich spiegeln, etwa: „Sie zweifeln also an der Datengrundlage unserer Prognose?“ Und drittens konkret nachfragen: „Welche einzelne Zahl genau weicht aus Ihrer Sicht ab?“ So entziehen Sie pauschalen Angriffen die Luft und führen das Gespräch zurück auf überprüfbare Fakten.</prosody>
+  </voice>
+</speak>

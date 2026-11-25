@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-b2-t1 | GOETHE B2 #1 | /audio/exams/goethe/b2/teil1-alltag-podcast.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Viele Großstädte versprechen seit Jahren schnellere Bahnverbindungen in die Vororte, doch auf der Karte bewegt sich wenig. Woran scheitert ein zügiger Ausbau neuer Straßenbahnlinien aus Ihrer Sicht?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">An der Nachfrage liegt es mit Sicherheit nicht – unsere Züge fahren zu Stoßzeiten an der Belastungsgrenze. Das größte Hindernis sind vielmehr extrem langwierige Abstimmungs- und Genehmigungsverfahren zwischen Land, Kreis und Kommune.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Also eher ein organisatorisches als ein technisches Problem?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Ganz genau. Wenn für fünf Kilometer Schiene erst mehrere Umweltgutachten doppelt angefordert werden müssen, vergehen oft acht Jahre bis zum ersten Spatenstich. Einheitliche digitale Planungsportale würden hier Jahre einsparen.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

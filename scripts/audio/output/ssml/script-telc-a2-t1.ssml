@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-a2-t1 | TELC A2 #1 | /audio/exams/telc/a2/teil1-telefonansagen.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Willkommen beim Autohaus Nord! Sie rufen leider außerhalb unserer Öffnungszeiten an. Mittwochnachmittags ist unsere Werkstatt komplett geschlossen. Ab Donnerstagvormittag um neun Uhr sind wir wieder persönlich für Sie da. In dringenden Notfällen hinterlassen Sie bitte Namen und Rückrufnummer.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

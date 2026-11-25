@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-018 | PRACTICE B1 #22 | /audio/practice/b1/qb-b1-h-018.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Marco, du hast über das Förderprogramm ein dreimonatiges Praktikum in einem Wiener Verlag gemacht. Was hat dich dort besonders überrascht?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Zunächst einmal die Arbeitsatmosphäre: Alle im Team waren per Du, auch mit dem Chefredakteur, gleichzeitig legte man aber großen Wert auf präzise Ausdrücke – da merkt man manche charmanten österreichischen Wörter wie „Jänner“ statt Januar oder „Sackerl“ für Tüte. Inhaltlich durfte ich schon nach zwei Wochen eigene kurze Buchrezensionen schreiben und Autorinnen auf Lesungen begleiten.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Wie hast du die Wohnungssuche in Wien erlebt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Das war eigentlich der schwierigste Teil vor der Abreise. Erst über ein Wohnheim für Praktikantinnen habe ich ein bezahlbares Zimmer gefunden. Ich rate allen Bewerberinnen, mindestens drei Monate vor Beginn nach einer Unterkunft zu suchen.</prosody>
+  </voice>
+</speak>

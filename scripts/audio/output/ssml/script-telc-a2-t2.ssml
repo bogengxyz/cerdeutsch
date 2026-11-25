@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-a2-t2 | TELC A2 #2 | /audio/exams/telc/a2/teil2-radio.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Guten Morgen! Darf ich Sie kurz fragen: Wie kommen Sie morgens eigentlich ins Büro?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Früher bin ich immer mit der vollen U-Bahn gefahren, aber seit einem halben Jahr gehe ich jeden Tag dreißig Minuten zu Fuß durch den Stadtpark. Das tut mir richtig gut!</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

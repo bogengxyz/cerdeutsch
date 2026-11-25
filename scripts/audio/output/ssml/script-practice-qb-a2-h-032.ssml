@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-032 | PRACTICE A2 #36 | /audio/practice/a2/qb-a2-h-032.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Herr Sari, fachlich passt Ihr Profil hervorragend zu unserer Lagerlogistik. Haben Sie noch Fragen an uns?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Ja, gern! Wie sieht die Einarbeitung in den ersten Wochen aus, und in welchen Schichten arbeitet das Team?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">In den ersten vier Wochen arbeiten Sie immer gemeinsam mit unserem erfahrenen Teamleiter im Tagdienst von 7:30 bis 16:00 Uhr. Danach wechseln wir im Zwei-Wochen-Rhythmus zwischen Frühschicht (6 bis 14 Uhr) und Spätschicht (14 bis 22 Uhr). Außerdem gibt es bei uns 28 Tage Urlaub pro Jahr und einen monatlichen Fahrtkostenzuschuss von 50 Euro.</prosody>
+  </voice>
+</speak>

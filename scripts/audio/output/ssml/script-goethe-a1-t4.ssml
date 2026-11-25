@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a1-t4 | GOETHE A1 #4 | /audio/exams/goethe/a1/goethe-a1-teil4-termine.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Praxis Doktor Klein, guten Tag!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Guten Tag! Ich bin Lukas Becker und brauche bitte einen Termin für diese Woche.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Geht es am Donnerstag um zehn Uhr fünfzehn?</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Am Vormittag arbeite ich leider. Haben Sie am Donnerstagnachmittag etwas frei?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Ja, um sechzehn Uhr dreißig ist noch ein Termin frei. Bitte bringen Sie Ihre Versichertenkarte mit.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a1-hoeren-3 | PRACTICE A1 #3 | /audio/practice/a1/a1-hoeren-3.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Hallo Paul, hier ist Sabine. Ich kaufe heute Nachmittag Brot und Käse ein. Könntest du bitte noch zwei Liter Milch holen? Ruf mich unter der Nummer 45821 zurück. Bis heute Abend!</prosody>
+  </voice>
+</speak>

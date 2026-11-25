@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-a1-t3 | TELC A1 #3 | /audio/exams/telc/a1/telc-a1-teil3-vorstellung.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Hallo! Ich bin Marta und komme aus Polen. Wie heißt du?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Hallo Marta! Ich heiße Rizky und komme aus Indonesien, aus Bandung.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Schön! Wohnst du hier allein in Köln?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Nein, ich wohne mit meiner Frau und unserer kleinen Tochter zusammen. Ich arbeite hier als Elektriker.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

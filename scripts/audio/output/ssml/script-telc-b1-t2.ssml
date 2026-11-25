@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-b1-t2 | TELC B1 #2 | /audio/exams/telc/b1/teil2-detailverstehen.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Die beliebten Laternenführungen durch unsere historische Altstadt finden ab Mai wieder jeden Freitag um zwanzig Uhr dreißig statt. Treffpunkt ist wie gewohnt am alten Rathausbrunnen.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Da maximal fünfzehn Personen pro Gruppe teilnehmen dürfen, ist eine vorherige Online-Reservierung über das Stadtportal zwingend erforderlich. Der Eintritt kostet neun Euro für Erwachsene.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

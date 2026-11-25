@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-024 | PRACTICE B2 #28 | /audio/practice/b2/qb-b2-h-024.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="+4%">Jeden Tag werden in Deutschland genießbare Backwaren, Obst und Milchprodukte weggeworfen – oft nur, weil das Mindesthaltbarkeitsdatum bald abläuft oder Äpfel kleine Druckstellen haben. Frau Lange, wie wirksam sind Apps, über die man abends Überraschungstüten beim Bäcker rettet?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Solche Apps erreichen hunderttausende Menschen unkompliziert im Alltag und verhindern echte Verschwendung im Kleinen. Doch über die Hälfte aller Lebensmittelabfälle entsteht gar nicht im Handel, sondern in privaten Haushalten – meist durch übervolle Kühlschränke und fehlende Einkaufsplanung. Wer vor dem Einkauf prüft, was bereits zu Hause liegt, spart pro Familie mehrere hundert Euro im Jahr.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-b2-hoeren-2 | PRACTICE B2 #2 | /audio/practice/b2/b2-hoeren-2.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Ein eintrittsfreier Sonntag im Monat senkt soziale Hürden deutlich und zieht viele Erstbesucher an.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Grundsätzlich begrüße ich das, gebe jedoch zu bedenken, dass Museen ohne eigene Ticketeinnahmen stärker von öffentlichen Haushalten abhängig werden, was langfristig Sonderausstellungen gefährden könnte.</prosody>
+  </voice>
+</speak>

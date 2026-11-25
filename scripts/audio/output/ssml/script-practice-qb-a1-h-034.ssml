@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-034 | PRACTICE A1 #38 | /audio/practice/a1/qb-a1-h-034.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Guten Tag! Ich möchte gern ein Damenfahrrad für den ganzen Tag mieten. Was kostet das?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Ein normales Citybike kostet 14 Euro pro Tag, ein E-Bike 26 Euro. Einen Helm und ein Schloss bekommen Sie gratis dazu. Bitte bringen Sie das Rad bis 19:30 Uhr wieder zurück.</prosody>
+  </voice>
+</speak>

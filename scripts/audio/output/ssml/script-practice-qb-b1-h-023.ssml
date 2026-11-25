@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-023 | PRACTICE B1 #27 | /audio/practice/b1/qb-b1-h-023.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Willkommen zu unserem Kurztraining für bessere Online-Meetings! Viele Kolleginnen klagen über Videokonferenzen, die sechzig Minuten dauern, obwohl das Thema in zwanzig Minuten geklärt wäre. Mein wichtigster Rat lautet: Kein Meeting ohne kurze Agenda am Vortag! Wenn alle vorher wissen, welche Entscheidung getroffen werden soll, sparen Sie enorm viel Zeit. Während des Gesprächs hilft es außerdem, das eigene Mikrofon stummzuschalten, solange man nicht spricht – besonders wenn draußen ein Straßenbahnwagen vorbeifährt oder jemand tippt. Und schalten Sie, wann immer die Internetleitung es zulässt, Ihre Kamera ein: Ein kurzes Nicken oder Lächeln signalisiert Aufmerksamkeit und macht digitale Zusammenarbeit spürbar persönlicher.</prosody>
+  </voice>
+</speak>

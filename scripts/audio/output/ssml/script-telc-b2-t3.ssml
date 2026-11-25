@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-b2-t3 | TELC B2 #3 | /audio/exams/telc/b2/telc-b2-teil3-bericht.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">In radiologischen Kliniken unterstützen lernende Bildprogramme Ärztinnen heute bei der Auswertung tausender Röntgenaufnahmen. Feinste Auffälligkeiten werden binnen Sekunden markiert – eine wertvolle Zweitmeinung gerade am Ende langer Nachtdienste.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Juristisch bleibt die Verantwortung jedoch eindeutig geregelt: Die Software gilt lediglich als Assistenzsystem, während endgültige Diagnose und Haftung vollständig bei der behandelnden Ärztin liegen.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

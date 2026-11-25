@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-030 | PRACTICE A2 #34 | /audio/practice/a2/qb-a2-h-030.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Salon Haarglanz, hallo!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Guten Tag, hier ist Clara Sommer. Haben Sie am Donnerstagnachmittag noch einen Termin zum Waschen und Schneiden frei?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Moment, ich schaue im Kalender... Um 14:30 Uhr ist leider schon alles belegt. Aber um 16:00 Uhr hätte meine Kollegin Sandra noch Zeit. Passt Ihnen das?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Um 16:00 Uhr schaffe ich es knapp nach der Arbeit — ja, super! Wie viel kostet Waschen und Schneiden bei Ihnen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Für mittellanges Haar 38 Euro inklusive Föhnen. Wir freuen uns auf Donnerstag!</prosody>
+  </voice>
+</speak>

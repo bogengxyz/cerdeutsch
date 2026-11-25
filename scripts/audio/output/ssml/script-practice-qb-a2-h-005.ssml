@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-005 | PRACTICE A2 #9 | /audio/practice/a2/qb-a2-h-005.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Willkommen beim Gesundheitstipp am Mittag! Viele Berufstätige essen mittags schnell eine Currywurst oder ein großes Schnitzel mit Pommes — und werden um 14 Uhr plötzlich extrem müde. Unser Tipp von Ernährungscoach Timo Braun: Nehmen Sie sich mindestens 20 Minuten Zeit zum langsamen Kauen und gehen Sie dabei vom Schreibtisch weg. Wer dreimal pro Woche sein Essen von zu Hause mitbringt, etwa einen Linsensalat mit buntem Gemüse oder Vollkornnudeln mit Tomatensoße, spart nicht nur rund 25 Euro in der Woche, sondern bleibt am Nachmittag auch deutlich wacher.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a2-t4 | GOETHE A2 #4 | /audio/exams/goethe/a2/goethe-a2-teil4-alltag.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Hallo Budi, hier ist Frau Weber aus dem zweiten Stock. Der Postbote hat heute Mittag ein Paket für dich bei mir abgegeben.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Oh, vielen Dank, Frau Weber! Darf ich es heute Abend abholen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Gern, aber zwischen achtzehn und neunzehn Uhr gehe ich mit meinem Hund spazieren. Ab neunzehn Uhr dreißig bin ich sicher wieder zurück.</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Prima, dann klingle ich kurz vor zwanzig Uhr bei Ihnen.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

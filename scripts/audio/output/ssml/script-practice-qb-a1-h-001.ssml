@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-001 | PRACTICE A1 #5 | /audio/practice/a1/qb-a1-h-001.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Guten Tag! Kann ich Ihnen helfen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Guten Tag, mein Name ist Amir Rahman. Ich habe heute meinen ersten Deutschkurs im Raum 12.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Herzlich willkommen, Herr Rahman! Moment, ich schaue kurz in die Liste. Ja, richtig, Raum 12 ist im ersten Stock links. Der Unterricht beginnt um neun Uhr mit Frau Lehmann.</prosody>
+  </voice>
+</speak>

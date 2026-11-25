@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-008 | PRACTICE A1 #12 | /audio/practice/a1/qb-a1-h-008.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Hallo! Möchten Sie eine Tageskarte oder nur zwei Stunden schwimmen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Nur zwei Stunden, bitte. Was kostet das für Erwachsene?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Das kostet 4 Euro 50. Die Umkleiden sind geradeaus, und für den Schrank brauchen Sie eine 1-Euro-Münze. Das Becken schließt heute um 21:00 Uhr.</prosody>
+  </voice>
+</speak>

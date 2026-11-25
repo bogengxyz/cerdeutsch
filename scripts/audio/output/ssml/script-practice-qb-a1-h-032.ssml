@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-032 | PRACTICE A1 #36 | /audio/practice/a1/qb-a1-h-032.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Entschuldigung, ich habe gestern diese kabellosen Kopfhörer hier gekauft, aber das rechte Ohrstück funktioniert nicht. Hier ist der Kassenbon.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Das tut mir leid. Möchten Sie ein neues Paar mitnehmen oder Ihr Geld zurück?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Ich nehme sehr gern ein neues Paar.</prosody>
+  </voice>
+</speak>

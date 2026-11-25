@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-031 | PRACTICE B1 #35 | /audio/practice/b1/qb-b1-h-031.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Frau Scholz, kann man auch mit einem winzigen Stadtbalkon im vierten Stock etwas für Bienen und Schmetterlinge tun?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Unbedingt! Schon zwei Blumenkästen reichen als kleine Tankstelle für Wildbienen. Wichtig ist nur, auf sogenannte „gefüllte“ Zuchtblumen wie manche Rosen zu verzichten, weil Insekten dort kaum an den Nektar kommen. Viel besser sind ungefüllte heimische Pflanzen und Küchenkräuter wie Lavendel, Thymian, Salbei oder Kapuzinerkresse – die sehen toll aus, riechen herrlich und liefern den ganzen Sommer über Nahrung. Außerdem hilft eine flache Schale mit Wasser und ein paar Kieselsteinen darin, damit die Tiere beim Trinken sicher landen können und nicht ertrinken.</prosody>
+  </voice>
+</speak>

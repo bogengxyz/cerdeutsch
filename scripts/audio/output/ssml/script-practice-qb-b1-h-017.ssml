@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-017 | PRACTICE B1 #21 | /audio/practice/b1/qb-b1-h-017.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Guten Morgen, kann ich Ihnen behilflich sein?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Guten Morgen! Mein Weiterflug geht erst heute Abend um 21:15 Uhr. Kann ich meinen großen Koffer schon hier lassen und noch für ein paar Stunden in die Innenstadt fahren?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Selbstverständlich! Unser Gepäckraum direkt neben dem Aufzug ist kostenlos für Hotelgäste – Sie bekommen dort eine kleine Nummernkarte. Mit der S-Bahn Linie S1 sind Sie von hier in genau zwanzig Minuten am Marienplatz.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Super! Welche Fahrkarte lohnt sich denn für hin und zurück?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Nehmen Sie am besten direkt am Automaten eine Single-Tageskarte für das Gesamtnetz: Die kostet neun Euro und ist meist billiger als zwei Einzelfahrten. Achten Sie nur darauf, das Papierticket vor der Fahrt am blauen Stempelautomaten zu entwerten!</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Danke für den wichtigen Hinweis, das hätte ich fast vergessen!</prosody>
+  </voice>
+</speak>

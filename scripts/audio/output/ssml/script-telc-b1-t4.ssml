@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-b1-t4 | TELC B1 #4 | /audio/exams/telc/b1/telc-b1-teil4-diskussion.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Sofia, kommst du jetzt wirklich jeden Morgen mit der Regionalbahn statt mit dem Auto?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Ja, seit März! Mit dem Auto stand ich ständig im Berufsverkehr vor der Brücke. Im Zug brauche ich zwar zehn Minuten länger bis zur Tür, kann aber entspannt lesen oder Nachrichten beantworten.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Und finanziell lohnt es sich wahrscheinlich auch, oder?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Auf jeden Fall – ich spare im Monat gut siebzig Euro Benzin und Parkgebühren.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-b1-hoeren-3 | PRACTICE B1 #3 | /audio/practice/b1/b1-hoeren-3.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Herr Becker, Sie trainieren seit zehn Jahren ehrenamtlich die Jugendmannschaft. Was motiviert Sie?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Am meisten freut es mich zu sehen, wie Kinder aus verschiedenen Schulen hier gemeinsam Teamgeist entwickeln. Natürlich kostet es Zeit, aber man bekommt viel Dankbarkeit zurück.</prosody>
+  </voice>
+</speak>

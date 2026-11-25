@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-026 | PRACTICE B1 #30 | /audio/practice/b1/qb-b1-h-026.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Unser Thema heute am Hörertelefon: Wie viel Trinkgeld geben Sie im Restaurant, und sollte es wie in manchen Ländern automatisch auf der Rechnung stehen? Wir haben zuerst Frau Berger aus Stuttgart.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Guten Abend! Ich gebe bei freundlichem Service immer gern etwa zehn Prozent Trinkgeld, aber eine feste Pflicht finde ich falsch. Trinkgeld sollte ein freiwilliges Dankeschön für gute Bedienung bleiben. Wichtiger wäre, dass Restaurants ihre Angestellten von vornherein so fair bezahlen, dass niemand auf das Trinkgeld angewiesen ist.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Danke, Frau Berger! Und jetzt Herr Kästner aus Bremen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Hallo! Ich habe selbst fünf Jahre im Studium gekellnert. Klar sollte der Grundlohn stimmen, aber eine freiwillige Empfehlung von zehn bis fünfzehn Prozent auf dem Kartenlesegerät hilft vielen Gästen, nicht lange rechnen zu müssen – solange man auch problemlos null Prozent auswählen darf.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-040 | PRACTICE B2 #44 | /audio/practice/b2/qb-b2-h-040.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Trainer: In einem deutsch-indonesisch-japanischen Softwareteam kam es anfangs häufig zu Missverständnissen: Deutsche Entwickler gaben in Besprechungen sehr direkte Kritik („Dieser Entwurf funktioniert so nicht!“), was manche Kolleginnen als unhöflich oder verletzend empfanden. Umgekehrt deuteten die deutschen Teammitglieder ein höfliches Lächeln und „Wir schauen uns das noch einmal an“ fälschlich als volle Zustimmung.
+Im gemeinsamen Workshop entwickelten alle daher ein explizites Team-Wörterbuch für Feedback: Direkte Sachkritik wird vorher freundlich angekündigt, und verbindliche Entscheidungen hält das Team am Ende schriftlich im Chat fest, damit niemand zwischen den Zeilen raten muss.</prosody>
+  </voice>
+</speak>

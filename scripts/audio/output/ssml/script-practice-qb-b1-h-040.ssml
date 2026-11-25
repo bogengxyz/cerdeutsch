@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-040 | PRACTICE B1 #44 | /audio/practice/b1/qb-b1-h-040.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Warum klicken und teilen wir falsche Nachrichten eigentlich so schnell? Studien zeigen, dass Falschmeldungen fast immer gezielt starke Gefühle wie Wut, Angst oder Empörung auslösen. Wenn eine Überschrift extrem dramatisch klingt – etwa „Ab morgen werden alle Stadtbusse gestrichen!“ –, drücken viele Nutzer auf „Teilen“, noch bevor sie den Artikel überhaupt zu Ende gelesen haben. Ein zweites typisches Merkmal sind vage Quellenangaben wie „Ein Insider berichtet“ ohne Datum oder überprüfbare Institution. Bevor Sie eine überraschende Meldung weiterleiten, lohnt ein zehnsekündiger Check: Gibt es dieselbe Nachricht auch bei etablierten Nachrichtenredaktionen? Wenn nirgendwo sonst darüber berichtet wird, ist höchste Vorsicht geboten.</prosody>
+  </voice>
+</speak>

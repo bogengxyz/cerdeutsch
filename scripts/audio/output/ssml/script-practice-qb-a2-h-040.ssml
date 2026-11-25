@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-040 | PRACTICE A2 #44 | /audio/practice/a2/qb-a2-h-040.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Entschuldigung, können Sie mir kurz helfen? Ich fahre nur drei Haltestellen bis zum Museum — brauche ich dafür ein normales Einzelticket für 3,50 Euro?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Nein, da sparen Sie Geld! Sehen Sie hier oben auf dem Bildschirm den gelben Knopf „Kurzstrecke“? Der kostet nur 2,10 Euro und gilt für bis zu vier U-Bahn-Stationen ohne Umsteigen. Sie können direkt mit Ihrer Bankkarte kontaktlos bezahlen.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Oh, super, danke! Und muss ich das Ticket noch entwerten?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Nein, Tickets aus diesem Automaten sind schon mit Uhrzeit bedruckt und sofort gültig.</prosody>
+  </voice>
+</speak>

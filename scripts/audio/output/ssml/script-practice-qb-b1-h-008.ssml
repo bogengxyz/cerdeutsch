@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-008 | PRACTICE B1 #12 | /audio/practice/b1/qb-b1-h-008.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Willkommen zu unserem Infoabend zur B1-Prüfung! Viele von Ihnen möchten das Zertifikat im kommenden Frühjahr ablegen. Beachten Sie bitte zunächst den Anmeldeschluss: Sie müssen sich spätestens fünf Wochen vor dem Prüfungstermin persönlich im Sekretariat oder online anmelden und dabei Ihren Ausweis vorzeigen. Am Prüfungstag selbst beginnt der schriftliche Teil pünktlich um neun Uhr mit dem Hörverstehen und dauert insgesamt knapp zweieinhalb Stunden. Ganz wichtig: Wörterbücher und Smartwatches sind im Prüfungsraum streng verboten; schalten Sie auch Ihr Mobiltelefon komplett aus, nicht nur auf lautlos! Nach einer Mittagspause finden am Nachmittag die mündlichen Paarprüfungen statt. Ihren genauen Paar-Partner und die Uhrzeit erfahren Sie am schwarzen Brett im Foyer.</prosody>
+  </voice>
+</speak>

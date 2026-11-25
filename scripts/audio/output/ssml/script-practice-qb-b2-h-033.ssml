@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-033 | PRACTICE B2 #37 | /audio/practice/b2/qb-b2-h-033.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Frau Richter, Sie gehen seit vier Jahren jeden Dienstagvormittag als ehrenamtliche Lesepatin in eine dritte Klasse. Was genau passiert in diesen fünfundvierzig Minuten?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Ich sitze mit jeweils zwei Kindern in einer ruhigen Ecke der Schulbibliothek – ganz ohne Notendruck. Wir wählen zusammen spannende Sachbücher oder Detektivgeschichten aus, lesen abwechselnd laut vor und sprechen über Wörter, die neu für sie sind.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Welche Veränderungen beobachten Lehrkräfte bei Kindern, die regelmäßig dabei sind?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Viele Kinder trauen sich nach einigen Monaten endlich, auch im regulären Unterricht freiwillig laut vorzulesen, weil sie merken: Fehler sind völlig in Ordnung und gehören beim Üben dazu.</prosody>
+  </voice>
+</speak>

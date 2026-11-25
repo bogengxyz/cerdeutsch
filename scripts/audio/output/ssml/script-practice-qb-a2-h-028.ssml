@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-028 | PRACTICE A2 #32 | /audio/practice/a2/qb-a2-h-028.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Sag mal, du machst doch seit zwei Monaten einen A2-Abendkurs online. Kommst du damit gut zurecht?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Am Anfang war ich skeptisch, weil ich abends ohnehin lange vor dem Laptop sitze. Aber inzwischen finde ich es echt praktisch: Ich spare mir jeden Abend vierzig Minuten Fahrtzeit zur Sprachschule. Unsere Lehrerin teilt uns oft in kleine Zweiergruppen ein, damit jeder viel spricht. Einziger Nachteil ist, dass wir in der Pause nicht zusammen Kaffee trinken können wie früher im Kursraum — das fehlt mir manchmal.</prosody>
+  </voice>
+</speak>

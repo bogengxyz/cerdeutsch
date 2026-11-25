@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-032 | PRACTICE B1 #36 | /audio/practice/b1/qb-b1-h-032.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Guten Tag und herzlich willkommen in Lübeck! Wie kann ich Ihnen helfen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Hallo! Wir sind bis Sonntag hier und möchten die historische Altstadt richtig kennenlernen. Wann findet denn eine geführte Tour statt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Unser klassischer Altstadt-Rundgang startet jeden Tag um 11 Uhr und um 14:30 Uhr direkt hier vor dem Rathaus und dauert neunzig Minuten. Er kostet zwölf Euro pro Person; Tickets bekommen Sie gleich hier bei mir. Wenn Sie zusätzlich zwei oder drei Museen besuchen möchten, empfehle ich die 48-Stunden-Kulturkarte für zweiundzwanzig Euro – damit fahren Sie auch kostenlos mit allen Stadtbussen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Das passt super! Dann nehmen wir zwei Plätze für die 14:30-Uhr-Führung heute und zwei 48-Stunden-Kulturkarten.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-016 | PRACTICE B2 #20 | /audio/practice/b2/qb-b2-h-016.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Sprecher: Viele Krankenhäuser und Ingenieurbüros warten händeringend auf qualifizierte Fachkräfte aus dem Ausland. Doch obwohl das Fachkräfteeinwanderungsgesetz neue Wege geöffnet hat, scheitern Bewerbungen in der Praxis häufig an monatelanger Bürokratie bei der Gleichwertigkeitsprüfung von Zeugnissen.
+Eine neue Koordinierungsstelle in Frankfurt testet nun ein digitales Schnellverfahren: Antragstellerinnen laden beglaubigte Dokumente einmalig auf einem zentralen Portal hoch, während Behörden parallel Visum und Berufsanerkennung prüfen. Zusätzlich fördern Betriebe berufsbezogene Deutschkurse direkt vor der Einreise, damit der Start im Team reibungslos gelingt.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-029 | PRACTICE B1 #33 | /audio/practice/b1/qb-b1-h-029.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Also, in genau sechs Wochen feiert unsere Firma ihr zwanzigjähriges Bestehen. Bis Freitag müssen wir das Rahmenprogramm festlegen. Wer übernimmt was?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Ich habe schon drei Catering-Anbieter angefragt. Am günstigsten und vielfältigsten ist das Büffet von „Kräuter &amp; Co.“ mit vielen vegetarischen Gerichten – sollen wir das bis morgen reservieren?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Ja, bitte unbedingt! Ich kümmere mich um die Einladungen für unsere langjährigen Kundinnen und um kleine Erinnerungsfotos aus den letzten zwanzig Jahren für die Wand.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Super! Dann buche ich die Jazzband für den frühen Abend und bestelle die Mietstühle für den Innenhof. Falls es doch kühl wird, können wir ab 19 Uhr in die große Werkshalle ausweichen. Treffen wir uns am Mittwoch um zehn zur kurzen Kontrolle?</prosody>
+  </voice>
+</speak>

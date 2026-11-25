@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-025 | PRACTICE A2 #29 | /audio/practice/a2/qb-a2-h-025.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Musikschule Klangwerk, guten Tag! Wie kann ich Ihnen helfen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Guten Tag! Ich möchte gern Akustikgitarre lernen, habe aber noch gar keine Erfahrung. Bieten Sie Kurse für erwachsene Anfänger an?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Ja, sehr gern! Jeden Donnerstag von 19:00 bis 20:00 Uhr gibt es eine kleine Gruppe mit maximal fünf Personen. Falls Sie noch keine eigene Gitarre besitzen, können Sie bei uns für 12 Euro im Monat ein Instrument ausleihen. Die ersten beiden Probestunden im September sind komplett unverbindlich — erst danach entscheiden Sie, ob Sie einen Vertrag für ein halbes Jahr abschließen.</prosody>
+  </voice>
+</speak>

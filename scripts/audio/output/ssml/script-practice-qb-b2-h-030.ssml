@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-030 | PRACTICE B2 #34 | /audio/practice/b2/qb-b2-h-030.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="+4%">Viele berühmte Altstädte und Bergdörfer ächzen im Sommer unter Overtourism: Wohnungen werden in Ferienapartments umgewandelt, Busse verstopfen enge Gassen, und von schnellen Tagesgästen bleibt kaum Wertschöpfung bei lokalen Bäckereien oder Handwerkern.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Nachhaltige Regionen steuern deshalb heute gezielt um: Manche Städte begrenzen die Vermietung privater Ferienwohnungen auf sechzig Tage pro Jahr und investieren die Kurtaxe direkt in regionale Buslinien für Bewohner und Gäste. Zudem lohnt sich saisonale Entzerrung – wer im Mai oder Oktober reist, erlebt authentische Gastfreundschaft und sichert ganzjährige Arbeitsplätze vor Ort.</prosody>
+  </voice>
+</speak>

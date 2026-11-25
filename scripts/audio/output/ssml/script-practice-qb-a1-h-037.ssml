@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-037 | PRACTICE A1 #41 | /audio/practice/a1/qb-a1-h-037.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Guten Tag, ich habe gestern Abend in der U6 meine Jacke vergessen.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Wie sieht die Jacke aus?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Sie ist dunkelgrün, aus Baumwolle und hat goldene Knöpfe. In der linken Tasche steckt ein kleiner roter Regenschirm.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Moment, wir haben genau so eine Jacke hier! Zeigen Sie mir bitte Ihren Ausweis.</prosody>
+  </voice>
+</speak>

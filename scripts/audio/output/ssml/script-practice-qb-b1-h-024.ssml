@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-024 | PRACTICE B1 #28 | /audio/practice/b1/qb-b1-h-024.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Auf der diesjährigen Technikmesse in München sorgten besonders sogenannte Assistenzroboter für Gesprächsstoff. In mehreren Hotels testen Betriebe bereits kleine rollende Lieferroboter, die bestellte Handtücher oder Mineralwasser selbstständig mit dem Aufzug bis vor die Zimmertür bringen und dort per Telefonanruf klingeln. Im Gesundheitsbereich wiederum demonstrierte ein Hersteller ein System, das Pflegekräfte körperlich entlastet, indem es beim Anheben schwerer Kisten oder beim Transport von Medikamenten durch lange Krankenhausflure hilft. Den menschlichen Kontakt sollen und können die Maschinen laut Entwicklerinnen jedoch keinesfalls ersetzen: Gerade im Hotel und im Krankenhaus bleiben Empathie, spontane Gespräche und persönliche Betreuung unersetzlich.</prosody>
+  </voice>
+</speak>

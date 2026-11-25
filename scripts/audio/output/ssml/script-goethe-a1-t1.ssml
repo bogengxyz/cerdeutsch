@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a1-t1 | GOETHE A1 #1 | /audio/exams/goethe/a1/teil1-alltag.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Sprachschule Zentrum, guten Tag! Mein Name ist König. Was kann ich für Sie tun?</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Guten Tag, Frau König! Ich heiße Adi und möchte mich für den A1-Abendkurs anmelden. Wie viel kostet der Kurs denn?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Gerne. Das Lehrbuch kostet zwanzig Euro extra, aber der Kurs selbst kostet fünfundneunzig Euro im Monat.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Alles klar, fünfundneunzig Euro im Monat. Und wann beginnt der Unterricht?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Der Kurs startet am kommenden Montag um achtzehn Uhr dreißig in Raum vier.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

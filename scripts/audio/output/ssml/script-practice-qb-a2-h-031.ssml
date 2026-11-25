@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-031 | PRACTICE A2 #35 | /audio/practice/a2/qb-a2-h-031.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Suchen Sie leichte Halbschuhe oder feste Wanderschuhe bis über den Knöchel?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Ich fahre nächsten Monat nach Südtirol und möchte dort öfter sechs Stunden am Stück auf steinigen Wegen wandern.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Dann empfehle ich unbedingt knöchelhohe Wanderschuhe mit einer griffigen Profilsohle und wasserdichter Membran. Wichtig beim Anprobieren: Kaufen Sie Wanderschuhe eine halbe Nummer größer als Ihre Alltagsschuhe, damit Ihre Zehen beim Bergablaufen vorne nicht anstoßen! Und tragen Sie die neuen Schuhe vor dem Urlaub schon ein paar Tage im Park oder bei kurzen Spaziergängen ein.</prosody>
+  </voice>
+</speak>

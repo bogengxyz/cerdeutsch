@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-022 | PRACTICE B2 #26 | /audio/practice/b2/qb-b2-h-022.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">In über hundert deutschen Kommunen entscheiden Bürgerinnen über einen Teil des städtischen Geldes direkt mit – im sogenannten Bürgerhaushalt. In Köln oder Freiburg reichen Einwohnerinnen Vorschläge ein, etwa für Trinkbrunnen, sichere Schulwege oder neue Parkbänke. Fachämter prüfen zunächst, ob jede Idee rechtlich zulässig ist und wie viel sie kostet.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Anschließend stimmen alle Bewohnerinnen ab vierzehn Jahren online oder per Stimmzettel über die Favoriten ab. Wichtig für das Vertrauen ist allerdings Transparenz danach: Auf einer öffentlichen Webseite zeigen wir Monat für Monat, welche Siegerprojekte bereits gebaut werden und warum ein anderer Vorschlag sich eventuell verzögert.</prosody>
+  </voice>
+</speak>

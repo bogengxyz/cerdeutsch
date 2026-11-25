@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-005 | PRACTICE B2 #9 | /audio/practice/b2/qb-b2-h-005.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Deniz, du studierst im vierten Semester Maschinenbau und bist der Erste in deiner Familie an einer Universität. Was fiel dir zu Studienbeginn am schwersten?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Fachlich kam ich gut zurecht, aber anfangs verstand ich die vielen ungeschriebenen Begriffe nicht: Was ist der Unterschied zwischen einem Kolloquium und einem Tutorium? Wie beantragt man ein Stipendium, oder darf man Professorinnen einfach in der Sprechstunde ansprechen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Wie hat dir das Mentoring-Programm dabei geholfen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Eine Masterstudentin hat mir im ersten Semester jede Woche dreißig Minuten lang genau solche praktischen Fragen beantwortet – ohne dass man sich schämen musste. Inzwischen bin ich selbst Mentor für Erstsemester geworden.</prosody>
+  </voice>
+</speak>

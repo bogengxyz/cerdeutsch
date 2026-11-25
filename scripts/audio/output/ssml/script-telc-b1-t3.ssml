@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-b1-t3 | TELC B1 #3 | /audio/exams/telc/b1/telc-b1-teil3-radioansage.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Wichtiger Hinweis für alle Besucherinnen des Straßenmusikfestivals am Samstag: Die gesamte Innenstadt bleibt zwischen zehn und zweiundzwanzig Uhr für den Autoverkehr gesperrt. Die Straßenbahnlinien eins und vier fahren dafür im Zehn-Minuten-Takt direkt bis zum Marktplatz. Kostenlose Parkplätze stehen am Messebahnhof bereit.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

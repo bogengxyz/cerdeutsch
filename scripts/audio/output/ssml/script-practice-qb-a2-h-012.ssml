@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-012 | PRACTICE A2 #16 | /audio/practice/a2/qb-a2-h-012.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Hausverwaltung Krause, guten Morgen!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Guten Morgen Herr Krause, hier ist Malik aus der Wohnung 2B im ersten Stock. Seit gestern funktioniert unsere Klingel unten an der Haustür nicht mehr. Man hört oben weder ein Läuten noch öffnet der Türsummer.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Danke für den Hinweis! Ich habe heute um elf ohnehin einen Termin im Nachbarhaus. Wenn Sie möchten, schaue ich gegen 11:30 Uhr kurz bei Ihnen vorbei und prüfe den Schalter.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Um 11:30 Uhr bin ich leider bei einem Arzttermin. Aber meine Frau arbeitet heute im Homeoffice und ist den ganzen Vormittag da.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Perfekt, dann klingle ich einfach an Ihrer Wohnungstür.</prosody>
+  </voice>
+</speak>

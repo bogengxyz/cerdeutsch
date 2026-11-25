@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-013 | PRACTICE B1 #17 | /audio/practice/b1/qb-b1-h-013.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Reporter: Entschuldigung, wären Sie dafür, dass Busse und Straßenbahnen in unserer Stadt für alle kostenlos fahren?
+Sprecher 1 (Rentnerin): Ja, absolut! Viele Menschen mit kleiner Rente oder Azubis könnten sich dann endlich öfter Fahrten ins Zentrum leisten, und vielleicht würden auch weniger Autos die Straßen verstopfen.
+Sprecher 2 (Unternehmer): Ich bin eher skeptisch. Wenn etwas gar nichts kostet, steigen zwar mehr Leute für zwei Haltestellen ein, aber woher soll das Geld für neue Bahnen und pünktliche Fahrer kommen? Ein günstiges Monatsticket für dreißig Euro finde ich fairer als komplett gratis.
+Sprecher 3 (Studentin): Mir wäre ein zuverlässiger Takt am wichtigsten! Selbst wenn der Bus umsonst ist, hilft mir das wenig, wenn er nach 20 Uhr nur einmal pro Stunde fährt. Erst ein gutes Angebot ausbauen, dann über die Preise sprechen.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-008 | PRACTICE B2 #12 | /audio/practice/b2/qb-b2-h-008.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Sprecherin: In einem gekühlten Tiefbunker nahe Berlin lagern zehntausende Metalldosen mit Stummfilmen aus den 1920er Jahren. Viele dieser Originale wurden auf leicht entzündlichem Zellulosenitrat gedreht, das sich über Jahrzehnte chemisch zersetzt und im schlimmsten Fall staubig zerbröselt. Ein Team aus Restauratorinnen scannt deshalb Bild für Bild hochauflösend ein und korrigiert Kratzer behutsam am Computer, ohne die körnige Struktur des Materials weichzuzeichnen.
+Anschließend kehren die Filme oft mit Live-Klaviermusik oder neu komponierten Orchesterpartituren zurück auf Festival-Leinwände – und überraschen jüngere Zuschauerinnen durch ihr erstaunlich modernes Tempo.</prosody>
+  </voice>
+</speak>

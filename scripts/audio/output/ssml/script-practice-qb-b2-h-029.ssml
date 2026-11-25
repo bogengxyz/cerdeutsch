@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-029 | PRACTICE B2 #33 | /audio/practice/b2/qb-b2-h-029.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">In Videokonferenzen reden oft dieselben drei extrovertierten Personen neunzig Prozent der Zeit, während analytische Kolleginnen ihre beste Idee gar nicht erst aussprechen. Wie lässt sich das ändern?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Viele Moderatorinnen halten Stille für unangenehm und springen schon nach einer Sekunde selbst wieder ein. Wer nach einer Frage bewusst fünf Sekunden abwartet, gibt nachdenklicheren Stimmen erst das Signal zum Einschalten des Mikrofons. Noch wirksamer ist das kurze „Silent Brainstorming“: Alle schreiben fünf Minuten lang still eigene Vorschläge auf ein digitales Board, bevor offen diskutiert wird – so zählen die Argumente und nicht die Lautstärke.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-022 | PRACTICE A1 #26 | /audio/practice/a1/qb-a1-h-022.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Hallo Leon, ich bin schon unterwegs zur Arbeit. Ich habe den Wohnungsschlüssel auf dem Küchentisch vergessen — bitte nimm ihn mit, wenn du später gehst! Heute Nachmittag hole ich das Paket bei Frau Schneider ab und komme um 18 Uhr heim.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-021 | PRACTICE B2 #25 | /audio/practice/b2/qb-b2-h-021.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">In vielen Tech-Start-ups liegt der Altersdurchschnitt unter dreißig Jahren – ältere Programmiererinnen bewerben sich dort mitunter vergeblich. Dabei zeigt eine Studie von Informatik-Instituten, dass altersgemischte Teams komplexe Softwareprojekte oft stabiler und mit weniger Folgekosten umsetzen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="+4%">Unsere jungen Absolventinnen bringen brandneue Frameworks und enormes Tempo ein. Unsere Kollegin mit fünfundzwanzig Jahren Berufserfahrung erkennt dagegen oft schon im ersten Entwurf, welche Datenbank-Architektur in drei Jahren unter hoher Last zusammenbrechen könnte. Durch gemeinsames „Pair Programming“ lernen beide Seiten in jeder Woche voneinander.</prosody>
+  </voice>
+</speak>

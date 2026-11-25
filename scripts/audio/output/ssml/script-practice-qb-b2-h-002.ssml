@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-002 | PRACTICE B2 #6 | /audio/practice/b2/qb-b2-h-002.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Frau Kroll, Ihr Sanitär- und Heizungsbetrieb arbeitet seit zwölf Monaten in einer Viertagewoche bei vollem Gehalt. Haben Sie dadurch Aufträge verloren?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Im Gegenteil! Unsere zwanzig Monteurinnen arbeiten von Montag bis Donnerstag jeweils neuneinhalb Stunden, und der Freitag bleibt frei. Dadurch sparen wir jeden Freitag eine komplette Anfahrtszeit zu den Baustellen und die Werkzeugvorbereitung.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Und wie reagieren Kundinnen, wenn am Freitag ein Notfall auftritt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Für Notfälle rotiert ein kleines Zweier-Team am Freitag gegen Freizeitausgleich in der Folgewoche. Das Beste für uns ist aber: Seit der Umstellung haben wir kaum noch Krankentage und sieben qualifizierte Bewerbungen erhalten.</prosody>
+  </voice>
+</speak>

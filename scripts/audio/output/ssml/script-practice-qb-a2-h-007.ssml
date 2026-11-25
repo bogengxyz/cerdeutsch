@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-007 | PRACTICE A2 #11 | /audio/practice/a2/qb-a2-h-007.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Kundenservice NetzPlus, mein Name ist Klein. Wie kann ich helfen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Guten Tag, seit heute Morgen um neun habe ich zu Hause kein WLAN mehr. Die Lampe am Router blinkt nur noch rot.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Das tut mir leid, Frau Lange. Ich prüfe Ihre Leitung... Mhm, in Ihrer Straße gab es gegen acht Uhr eine kurze Stromstörung. Haben Sie den Router schon einmal komplett neu gestartet?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Nein, bisher noch nicht.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Dann ziehen Sie bitte einmal das schwarze Stromkabel aus der Steckdose, warten genau dreißig Sekunden und stecken es wieder ein. Falls nach drei Minuten die grüne Lampe nicht leuchtet, schicken wir morgen Vormittag kostenlos einen Techniker vorbei.</prosody>
+  </voice>
+</speak>

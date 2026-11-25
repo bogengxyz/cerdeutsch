@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-018 | PRACTICE A2 #22 | /audio/practice/a2/qb-a2-h-018.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Miriam, danke noch einmal, dass du nächste Woche meine Vertretung übernimmst!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Gern doch! Worauf muss ich ab Montag besonders achten?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Zwei Dinge: Erstens erwartet die Firma Weber am Dienstagmorgen unsere neuen Preislisten. Ich habe die Datei schon fertig im Ordner „Angebote“ gespeichert — du musst sie nur noch per E-Mail an Herrn Weber schicken. Zweitens ruft vielleicht Frau König wegen des Messestands an. Sag ihr bitte, dass wir erst am 20. Oktober wieder genauere Infos haben. Meine E-Mails sind automatisch auf dich weitergeleitet.</prosody>
+  </voice>
+</speak>

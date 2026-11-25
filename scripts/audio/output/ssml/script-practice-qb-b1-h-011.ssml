@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-011 | PRACTICE B1 #15 | /audio/practice/b1/qb-b1-h-011.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Sie sind verbunden mit der Gemeinschaftspraxis Dr. Hartmann und Dr. Yilmaz. Unser Praxisteam befindet sich vom 4. bis einschließlich 8. November auf einer ärztlichen Fortbildung. Ab Montag, dem 11. November, sind wir ab 8:00 Uhr wieder wie gewohnt für Sie da. In dringenden medizinischen Fällen übernimmt die Praxis Dr. König in der Bahnhofstraße 22, Telefon 45 89 10, unsere Vertretung. Wenn Sie lediglich ein Dauerrezept für Ihre regelmäßigen Medikamente benötigen, schicken Sie bitte bis Donnerstagabend eine kurze E-Mail mit Ihrem Geburtsdatum an rezept@praxis-hartmann.de – diese Anfragen bearbeitet unsere Assistentin jeden Vormittag aus dem Homeoffice.</prosody>
+  </voice>
+</speak>

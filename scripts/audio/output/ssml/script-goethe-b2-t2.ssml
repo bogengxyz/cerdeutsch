@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-b2-t2 | GOETHE B2 #2 | /audio/exams/goethe/b2/teil2-fachgespraech.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Frau Professor Seidel, digitale Werkzeuge verändern Büroberufe rasant. Wie gelingt es Unternehmen, auch erfahrene Beschäftigte für regelmäßige Fortbildungen zu gewinnen?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Entscheidend sind die Rahmenbedingungen. Wenn Weiterbildung als unbezahlte Zusatzpflicht nach Feierabend oder am Wochenende erwartet wird, sinkt die Akzeptanz rapide – gerade bei Personen mit Familienpflichten.</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Erfolgreiche Firmen reservieren deshalb feste Lernzeiten innerhalb der regulären, bezahlten Arbeitszeit und passen Kurse gemeinsam mit den Teams an konkrete Projekte an.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-027 | PRACTICE B1 #31 | /audio/practice/b1/qb-b1-h-027.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Hallo, schön dass du anrufst! Was bedrückt dich denn?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Meine beste Freundin Lea und ich sprechen seit einer Woche kaum noch miteinander. Letztes Wochenende hat sie mein Geburtstagsessen kurzfristig abgesagt, und ich habe ihr danach aus Wut eine ziemlich gemeine Nachricht geschrieben. Jetzt meldet sich keine von uns.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Das tut natürlich weh – auf beiden Seiten. Hast du eine Idee, warum sie abgesagt hat?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Eigentlich hatte sie mir geschrieben, dass es ihrer Oma nicht gut ging, aber ich war so enttäuscht, dass ich gar nicht richtig nachgefragt habe.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Wenn euch die Freundschaft wichtig ist, muss eine den ersten Schritt machen. Schreib ihr keine lange Verteidigung, sondern ruf kurz an oder schick eine ehrliche Sprachnachricht: Sag, dass dir deine wütende Reaktion leidtut und frag sie, wie es ihrer Oma geht.</prosody>
+  </voice>
+</speak>

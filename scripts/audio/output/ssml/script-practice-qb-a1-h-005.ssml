@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-005 | PRACTICE A1 #9 | /audio/practice/a1/qb-a1-h-005.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Guten Abend, haben Sie schon gewählt?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Ja, ich nehme gern die Kartoffelsuppe als Vorspeise und danach den gegrillten Fisch mit Salat.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Sehr gern. Und was möchten Sie trinken?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-12%">Ein großes Mineralwasser ohne Kohlensäure und nach dem Essen einen Espresso, bitte.</prosody>
+  </voice>
+</speak>

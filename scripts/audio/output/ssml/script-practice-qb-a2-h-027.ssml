@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-027 | PRACTICE A2 #31 | /audio/practice/a2/qb-a2-h-027.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Guten Morgen allerseits und herzlich willkommen zum heutigen Fahrsicherheitstraining! Bevor wir in zehn Minuten auf die nasse Übungsstrecke fahren, prüfen wir gemeinsam drei Dinge an Ihrem eigenen Pkw: Erstens sollte im Kofferraum nichts lose herumliegen, zweitens stellen wir die Kopfstütze auf die richtige Höhe ein und drittens kontrollieren wir kurz den Luftdruck der Reifen. Sie trainieren heute übrigens ausschließlich bis maximal 50 km/h — wichtig ist nicht Schnelligkeit, sondern richtiges Reagieren beim Bremsen auf glatter Fahrbahn.</prosody>
+  </voice>
+</speak>

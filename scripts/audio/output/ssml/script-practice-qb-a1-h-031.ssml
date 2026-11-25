@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-031 | PRACTICE A1 #35 | /audio/practice/a1/qb-a1-h-031.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Guten Abend!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Guten Abend, ich möchte gern eine Pizza Margherita und einen großen gemischten Salat bestellen. Die Adresse ist Goethestraße 19, dritter Stock bei Weber. Wie lange dauert es?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Ungefähr 30 Minuten. Zusammen sind das 18 Euro.</prosody>
+  </voice>
+</speak>

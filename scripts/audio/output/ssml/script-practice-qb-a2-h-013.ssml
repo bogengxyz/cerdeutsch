@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-013 | PRACTICE A2 #17 | /audio/practice/a2/qb-a2-h-013.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Im Herbst wird es morgens später hell und abends früher dunkel. Deshalb kontrolliert die Polizei diese Woche verstärkt die Beleuchtung an Fahrrädern vor Schulen und Bahnhöfen. Wichtig: Vorder- und Rücklicht müssen bei Dämmerung sauber funktionieren — sonst droht ein Bußgeld von 20 Euro. Außerdem erinnert die Verkehrswacht daran, dass man auf Radwegen immer rechts fährt und mit Kopfhörern auf keinen Fall zu laut Musik hören darf, damit man Rettungswagen oder Klingeln noch rechtzeitig hört. Reflektoren an Pedalen und Speichen erhöhen die Sichtbarkeit enorm.</prosody>
+  </voice>
+</speak>

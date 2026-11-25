@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-035 | PRACTICE B1 #39 | /audio/practice/b1/qb-b1-h-035.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Bürgeramt Mitte, Guten Tag! Sie sprechen mit Herrn Lehmann.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Guten Tag Herr Lehmann, hier ist Nadja Putra. Ich bin vorgestern aus Köln hierher gezogen und muss meinen neuen Wohnsitz anmelden. Wann ist der nächste freie Termin?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Herzlich willkommen! Am schnellsten geht es am kommenden Dienstag um 10:40 Uhr in unserer Nebenstelle Nord – passt Ihnen das?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Dienstag um 10:40 Uhr ist super! Welche Dokumente muss ich genau mitbringen? Mitarbeiterin/Mitarbeiter (Lehmann): Ganz wichtig sind Ihr gültiger Reisepass oder Personalausweis und unbedingt die unterschriebene Wohnungsgeberbestätigung Ihrer Vermieterin – der bloße Mietvertrag reicht leider nicht mehr aus. Ihre Vorgangsnummer lautet 842. Bitte seien Sie zehn Minuten vorher da.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-002 | PRACTICE B1 #6 | /audio/practice/b1/qb-b1-h-002.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Frau Sommer, Sie betreiben seit zwei Jahren einen Unverpackt-Laden mitten in Bonn. Wie läuft der Einkauf für Neulinge genau ab?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Ganz entspannt! Man bringt von zu Hause saubere Gläser, Dosen oder Stoffbeutel mit, wiegt sie zuerst auf unserer Waage am Eingang und klebt ein kleines Gewichtsetikett darauf. Danach füllt man genau so viele Nudeln, Haferflocken, Gewürze oder Nüsse ab, wie man wirklich braucht – an der Kasse wird das Gewicht des Glases natürlich wieder abgezogen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Und wenn jemand spontan vorbeikommt und gar keine eigenen Gefäße dabeihat?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Kein Problem! Wir haben immer gespendete, heiß gespülte Schraubgläser kostenlos im Regal stehen oder verleihen Stoffbeutel gegen zwei Euro Pfand. Besonders gefragt sind übrigens unsere festen Shampoos und regionalen Linsen.</prosody>
+  </voice>
+</speak>

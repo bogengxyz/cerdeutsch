@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-020 | PRACTICE A1 #24 | /audio/practice/a1/qb-a1-h-020.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Liebe Reisende, der ICE 512 nach Frankfurt am Main, planmäßige Abfahrt um 08:15 Uhr, fährt heute voraussichtlich erst um 08:35 Uhr auf Gleis 3 ab. Wir bitten um Entschuldigung. Der Bordbistro-Wagen befindet sich heute in der Zugmitte.</prosody>
+  </voice>
+</speak>

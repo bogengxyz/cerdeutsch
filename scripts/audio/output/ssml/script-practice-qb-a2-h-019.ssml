@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-019 | PRACTICE A2 #23 | /audio/practice/a2/qb-a2-h-019.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-6%">Hey Lukas! Ich habe endlich den Schlüssel für meine neue Wohnung in der Mozartstraße 18 bekommen! Nächsten Samstag um neun Uhr morgens fangen wir mit dem Umzug an. Hättest du Zeit, drei oder vier Stunden beim Tragen der Kisten zu helfen? Ein Transporter steht direkt vor dem Haus, also müssen wir nicht weit laufen. Und für alle Helfer gibt es mittags frische Pizza und kalte Getränke auf dem Balkon. Gib mir bitte bis Mittwoch kurz Bescheid, ob du dabei bist. Würde mich riesig freuen!</prosody>
+  </voice>
+</speak>

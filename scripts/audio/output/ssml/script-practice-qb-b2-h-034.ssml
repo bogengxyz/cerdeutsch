@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-034 | PRACTICE B2 #38 | /audio/practice/b2/qb-b2-h-034.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Jahrelang sagten Prognosen das Ende unabhängiger Stadtteilbuchhandlungen durch große Online-Händler voraus. Doch ein Blick in viele Viertel beweist das Gegenteil: Wer heute überlebt, setzt konsequent auf eigene Stärken. Statt endloser Massenware präsentieren inhabergeführte Läden handgeschriebene Leseempfehlungen des Teams, organisieren abendliche Autorenlesungen und kooperieren mit lokalen Schulen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Und beim Tempo stehen wir dem Internet keineswegs nach: Was Kundinnen bis siebzehn Uhr über unseren lokalen Webshop bestellen, liegt dank deutscher Buchpreisbindung zum exakt selben Preis schon am nächsten Morgen ab neun Uhr abholbereit auf dem Tresen.</prosody>
+  </voice>
+</speak>

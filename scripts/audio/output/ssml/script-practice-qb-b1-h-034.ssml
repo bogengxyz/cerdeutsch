@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-034 | PRACTICE B1 #38 | /audio/practice/b1/qb-b1-h-034.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Frau Professor Weber, werden Klassenräume im Jahr 2040 komplett leer sein, weil alle nur noch zu Hause am Tablet lernen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Nein, ganz im Gegenteil! Gerade in der Pandemie haben wir gesehen, wie wichtig die Schule als sozialer Raum ist, in dem Kinder Freundschaften schließen und Konflikte direkt lösen. Was sich verändern wird, ist die Architektur: Starre Sitzreihen mit Blick nur nach vorn zur Tafel dürften seltener werden. Stattdessen brauchen Schulen flexible Lernzonen – ruhige Nischen für Einzelarbeit, runde Tische für Gruppenprojekte und Werkstätten. Digitale Lernprogramme übernehmen vielleicht Basisübungen mit sofortigem Feedback, damit Lehrkräfte deutlich mehr Zeit für individuelle Förderung und Gespräche gewinnen.</prosody>
+  </voice>
+</speak>

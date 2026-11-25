@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-028 | PRACTICE B2 #32 | /audio/practice/b2/qb-b2-h-028.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Kostenloser Probemonat für ein Fitness-Portal oder eine Lern-App – und plötzlich läuft das Jahresabo weiter! Welche Regeln schützen Verbraucherinnen in Deutschland heute besonders wirksam, Frau Hoffmann?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Seit einigen Jahren gilt das Gesetz für faire Verbraucherverträge: Nach Ablauf der ersten Mindestlaufzeit darf sich ein Vertrag nicht mehr stillschweigend um ein ganzes Jahr verlängern, sondern muss monatlich kündbar bleiben. Außerdem muss auf Webseiten ein klar beschrifteter Kündigungsbutton ohne vorheriges Einloggen sofort erreichbar sein.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Und was raten Sie vor dem Abschluss eines Probeabos?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Immer einen Kalendereintrag zwei Tage vor Ablauf der Testphase setzen und per Screenshot dokumentieren, wenn man fristgerecht gekündigt hat.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-035 | PRACTICE A2 #39 | /audio/practice/a2/qb-a2-h-035.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Sprecherin 1 (Anke): Als ich neun war, fuhren meine Eltern mit unserem alten Wohnwagen zwei Wochen an die Nordsee. Ich hatte erst Angst vor den großen Wellen, aber mein Vater baute mit mir stundenlang riesige Sandburgen — das vergesse ich nie!
+Sprecher 2 (Deniz): Bei mir war es der Sommer auf dem Bauernhof meines Onkels in Anatolien. Morgens um sechs durfte ich beim Füttern der Hühner helfen und frische Feigen direkt vom Baum pflücken. Danach spielten alle Kinder bis zum Abendessen auf der Wiese Fußball.</prosody>
+  </voice>
+</speak>

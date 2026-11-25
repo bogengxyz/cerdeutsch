@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-038 | PRACTICE A2 #42 | /audio/practice/a2/qb-a2-h-038.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Rezeptionist: Herzlich willkommen in unserer Jugendherberge! Hier ist Ihre Schlüsselkarte für Zimmer 208 im zweiten Stock. Das Frühstücksbuffet ist morgen früh von 7:00 bis 9:30 Uhr im Speisesaal im Erdgeschoss geöffnet. Das kostenlose WLAN heißt „JugendHostel-Gast“ — das Passwort steht unten auf Ihrem Zimmerumschlag. Wenn Sie abends nach 23 Uhr zurückkommen, öffnen Sie einfach die linke Seitentür mit derselben Schlüsselkarte. Hier schenke ich Ihnen noch einen kostenlosen Stadtplan mit den wichtigsten Buslinien.</prosody>
+  </voice>
+</speak>

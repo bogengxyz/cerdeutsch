@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-005 | PRACTICE B1 #9 | /audio/practice/b1/qb-b1-h-005.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Ab welchem Alter sollte ein Kind ein eigenes Smartphone bekommen? Herr Dr. Braun, wie sehen Sie das als Medienpädagoge?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Ein festes magisches Alter gibt es nicht – es hängt von der Reife des Kindes ab. Meistens ist der Wechsel auf die weiterführende Schule um das zehnte Lebensjahr ein sinnvoller Moment, weil der Schulweg länger wird. Wichtig ist aber ein gemeinsamer Medienvertrag: Wie lange darf gespielt werden, und wo liegt das Handy nachts?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Genau das machen wir bei unserer elfjährigen Tochter so! Unter der Woche hat sie maximal fünfundvierzig Minuten Freizeit-Bildschirmzeit, und um zwanzig Uhr legen alle in der Familie – auch wir Erwachsenen – ihre Handys auf eine Ladestation im Flur. Seitdem wir Eltern selbst mit gutem Beispiel vorangehen, gibt es abends viel weniger Streit.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-026 | PRACTICE A1 #30 | /audio/practice/a1/qb-a1-h-026.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Liebe Gäste! Nur heute Nachmittag von 14:00 bis 18:00 Uhr erhalten Sie 20 Prozent Rabatt auf alle Herrensocken und T-Shirts in der ersten Etage. An der Information im Erdgeschoss bekommen Sie ab 50 Euro Einkaufswert einen Stoffbeutel geschenkt.</prosody>
+  </voice>
+</speak>

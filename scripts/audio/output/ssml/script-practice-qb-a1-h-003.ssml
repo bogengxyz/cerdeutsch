@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-003 | PRACTICE A1 #7 | /audio/practice/a1/qb-a1-h-003.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Achtung, liebe Kundinnen und Kunden! Heute feiern wir unser Jubiläum. Jeder Kunde mit der Kassennummer 47 oder 83 bekommt an der Information ein kleines Geschenk. Außerdem zahlen Sie heute im zweiten Stock für alle Tassen nur 3 Euro 50 statt 7 Euro.</prosody>
+  </voice>
+</speak>

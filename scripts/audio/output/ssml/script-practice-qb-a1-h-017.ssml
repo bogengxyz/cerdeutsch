@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-017 | PRACTICE A1 #21 | /audio/practice/a1/qb-a1-h-017.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Guten Morgen, Max! Möchtest du ein weiches Ei oder lieber Käse auf dein Brötchen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Ein Brötchen mit Käse und Tomate wäre super, danke Mama. Haben wir auch noch Orangensaft?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Der Orangensaft ist leider leer, aber im Kühlschrank steht frischer Apfelsaft.</prosody>
+  </voice>
+</speak>

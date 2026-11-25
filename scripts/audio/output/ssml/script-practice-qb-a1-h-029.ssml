@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-029 | PRACTICE A1 #33 | /audio/practice/a1/qb-a1-h-029.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Paul, ich habe gerade die Wetter-App für Rügen geprüft. Morgen wird es zwar 21 Grad warm, aber direkt am Strand weht ein frischer Wind.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Gut, dass du nachgeschaut hast! Dann packe ich neben meinen Badesachen auch eine winddichte Jacke und eine Mütze ein.</prosody>
+  </voice>
+</speak>

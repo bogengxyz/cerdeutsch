@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-b1-t2 | GOETHE B1 #2 | /audio/exams/goethe/b1/teil2-interview.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Herzlich willkommen, Frau Dr. Hartmann! Viele Eltern sind besorgt, weil ihre Kinder bis spät nachts am Handy hängen. Sollten Smartphones für Jugendliche am Abend generell verboten werden?</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Vielen Dank für die Einladung. Nein, ein strenges Verbot bringt erfahrungsgemäß wenig und führt nur zu unnötigen Konflikten. Wichtiger sind gemeinsame Regeln, die auch die Erwachsenen selbst vorleben.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Wie könnte eine solche Alltagslösung konkret aussehen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Ideal ist eine feste bildschirmfreie Stunde vor dem Einschlafen. Wer das Telefon ab neun Uhr außerhalb des Schlafzimmers lädt, kommt mental schneller zur Ruhe und schläft messbar tiefer.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-a2-t1 | GOETHE A2 #1 | /audio/exams/goethe/a2/teil1-ansagen.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Achtung am Gleis vier: Der Intercity zweihundertvier nach Hamburg Hauptbahnhof, planmäßige Abfahrt elf Uhr zwanzig, hat heute wegen Bauarbeiten auf der Strecke etwa fünfzehn Minuten Verspätung. Bitte beachten Sie: Der Zug fährt heute ausnahmsweise in umgekehrter Wagenreihung ein. Die erste Klasse befindet sich in Abschnitt A. Wir bitten um Entschuldigung.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

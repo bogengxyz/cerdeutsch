@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-009 | PRACTICE B2 #13 | /audio/practice/b2/qb-b2-h-009.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Wer früher eine komplizierte Stromabrechnung in einer anderen Sprache besprechen wollte, musste oft wochenlang auf einen Termin warten oder Angehörige als Übersetzer mitbringen. Ein kommunaler Energieversorger im Ruhrgebiet geht nun einen anderen Weg: In sechs Kundenzentren stehen schallgedämmte Video-Kabinen bereit.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Wählt eine Kundin am Bildschirm etwa Türkisch, Arabisch, Polnisch oder Vietnamesisch aus, verbindet die Software direkt mit einer fest angestellten Fachberaterin im Verbund, die sowohl das komplexe Tarifrecht beherrscht als auch die Muttersprache spricht. Die Zahl der Rückfragen wegen unklarer Verträge ist innerhalb eines halben Jahres um vierzig Prozent gesunken.</prosody>
+  </voice>
+</speak>

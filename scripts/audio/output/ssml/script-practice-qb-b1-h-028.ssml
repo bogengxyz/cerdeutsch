@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-028 | PRACTICE B1 #32 | /audio/practice/b1/qb-b1-h-028.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Hausverwaltung Lindner, mein Name ist Krüger.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Guten Morgen Frau Krüger, hier ist Novak aus der Mozartstraße 12, dritter Stock rechts. Seit gestern Abend bleiben alle Heizkörper in meiner Wohnung komplett kalt, obwohl das Thermostat auf Stufe fünf steht.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Oh, das ist bei fünf Grad draußen natürlich unangenehm! Haben Sie schon versucht, die Heizung zu entlüften, oder gluckert das Rohr gar nicht?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Da kommt überhaupt kein Geräusch, und im Treppenhaus ist die Heizung auch kalt.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Verstehe, dann liegt es wahrscheinlich an der zentralen Pumpe im Keller. Unser Techniker ist heute schon im Viertel unterwegs und kann zwischen 13:30 und 15:00 Uhr vorbeikommen. Reicht es Ihnen, wenn er im Keller arbeitet, oder soll er auch bei Ihnen klingeln?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Ich bin ab 13 Uhr im Homeoffice – er kann gern auch kurz bei mir testen!</prosody>
+  </voice>
+</speak>

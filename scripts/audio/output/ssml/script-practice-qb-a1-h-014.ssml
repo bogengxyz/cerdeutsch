@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-014 | PRACTICE A1 #18 | /audio/practice/a1/qb-a1-h-014.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Hier ist der Wetterdienst für heute: Am Vormittag liegt in den Tälern noch leichter Nebel, ab Mittag kommt aber die Sonne heraus. Die Temperaturen steigen auf angenehme 19 Grad. Erst nach Mitternacht erwarten wir wieder etwas Regen und kühleren Wind aus Westen.</prosody>
+  </voice>
+</speak>

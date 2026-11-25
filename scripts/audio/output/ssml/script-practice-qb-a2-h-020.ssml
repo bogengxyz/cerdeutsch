@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-020 | PRACTICE A2 #24 | /audio/practice/a2/qb-a2-h-020.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Guten Tag, Gesundheitskasse Aktiv, hier spricht Frau Weber.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Hallo Frau Weber, ich besuche seit zwei Monaten einen zertifizierten Rückenkurs im Fitnessstudio und habe gehört, dass Sie einen Teil der Kosten erstatten. Stimmt das?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Ja, ganz genau! Wenn Sie mindestens an 80 Prozent der Kurstermine teilgenommen haben, übernehmen wir einmal im Jahr bis zu 120 Euro pro Präventionskurs. Laden Sie nach Kursende einfach die Teilnahmebestätigung und Ihre Rechnung bequem als Foto in unserer App hoch. Innerhalb von zehn Arbeitstagen überweisen wir das Geld dann auf Ihr Konto.</prosody>
+  </voice>
+</speak>

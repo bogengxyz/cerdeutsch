@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-b1-hoeren-1 | PRACTICE B1 #1 | /audio/practice/b1/b1-hoeren-1.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Mara, wie war eigentlich dein Semester in Freiburg?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Anfangs hatte ich Respekt vor den Vorlesungen auf Deutsch, aber die Tandem-Abende an der Uni haben mir enorm geholfen. Dort konnte ich nicht nur Fachbegriffe üben, sondern auch lockere Umgangssprache lernen. Nur die Wohnungssuche war ziemlich stressig.</prosody>
+  </voice>
+</speak>

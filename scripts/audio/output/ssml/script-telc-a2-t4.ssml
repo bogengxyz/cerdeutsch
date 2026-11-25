@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-a2-t4 | TELC A2 #4 | /audio/exams/telc/a2/telc-a2-teil4-arbeit.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Paul, könntest du am Freitag meine Frühschicht um sieben Uhr übernehmen? Ich habe um acht einen wichtigen Termin auf dem Bürgeramt.</prosody>
+    <break time="700ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Freitag früh passt mir eigentlich gut. Übernimmst du dafür am Samstag meine Nachmittagsschicht?</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Ja, sehr gern! Ich schreibe unserer Teamleiterin direkt eine kurze Mail, damit sie den Tausch einträgt.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

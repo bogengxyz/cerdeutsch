@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-026 | PRACTICE B2 #30 | /audio/practice/b2/qb-b2-h-026.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Frau Yilmaz, die Stadtverwaltung in Ihrer Region stellt schrittweise tausende Bürorechner auf quelloffene Software um. Warum nehmen Sie diesen Umstellungsaufwand in Kauf?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Erstens wollen wir uns aus der Abhängigkeit einzelner Großanbieter lösen, die Lizenzpreise fast beliebig erhöhen können. Zweitens bleiben sensible Bürgerdaten vollständig auf eigenen Servern in der Region, und Sicherheitslücken lassen sich durch den einsehbaren Quellcode unabhängig prüfen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Beschweren sich Mitarbeitende nicht über ungewohnte Oberflächen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Nur wenn man sie alleinlässt! Deshalb schulen wir Teams sechs Monate vor der Umstellung in kleinen Gruppen und übernehmen zunächst nur einzelne Programme wie Textverarbeitung und Kalender.</prosody>
+  </voice>
+</speak>

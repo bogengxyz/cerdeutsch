@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-025 | PRACTICE B1 #29 | /audio/practice/b1/qb-b1-h-025.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Herzlich willkommen an Station vier unserer Ausstellung zur Wiener Kaffeehauskultur! Schon im späten 19. Jahrhundert war das Kaffeehaus weit mehr als ein Ort für ein schnelles Getränk. Da viele Wohnungen damals klein und im Winter schlecht beheizt waren, wurde das Café zum zweiten Wohnzimmer für Schriftstellerinnen, Studierende und Künstler. Für den Preis einer einzigen Tasse Kaffee – meist serviert auf einem kleinen Silbertablett mit einem Glas Leitungswasser – durfte man stundenlang internationale Zeitungen lesen, Schach spielen oder an neuen Texten schreiben, ohne dass der Kellner drängte. Heute gehört diese besondere Tradition sogar zum immateriellen Kulturerbe. Gleich rechts in der Vitrine sehen Sie übrigens einen originalen hölzernen Zeitungshalter aus dem Jahr 1905.</prosody>
+  </voice>
+</speak>

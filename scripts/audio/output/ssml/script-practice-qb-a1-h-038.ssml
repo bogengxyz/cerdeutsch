@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-038 | PRACTICE A1 #42 | /audio/practice/a1/qb-a1-h-038.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Hotel Sonnenhof, guten Tag.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Guten Tag, ich möchte zwei Doppelzimmer für drei Nächte vom 12. bis 15. September buchen.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Gern! Ein Doppelzimmer kostet 98 Euro pro Nacht inklusive Frühstück. Für drei Nächte und zwei Zimmer macht das zusammen 588 Euro.</prosody>
+  </voice>
+</speak>

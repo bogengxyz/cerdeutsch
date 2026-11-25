@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-023 | PRACTICE A2 #27 | /audio/practice/a2/qb-a2-h-023.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Achtung, eine wichtige Information für alle Passagiere des Fluges LH 412 nach Wien, geplanter Abflug um 16:45 Uhr! Aufgrund einer technischen Verzögerung beim vorherigen Flug verschiebt sich das Einsteigen um 25 Minuten. Außerdem startet der Flug nicht wie ursprünglich angezeigt von Gate B14, sondern von Gate B22 im gleichen Terminalbereich. Das Boarding beginnt voraussichtlich um 16:35 Uhr — bitte halten Sie Ihren Reisepass und Ihre Bordkarte bereit.</prosody>
+  </voice>
+</speak>

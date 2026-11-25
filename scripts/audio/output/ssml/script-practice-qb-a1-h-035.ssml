@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-035 | PRACTICE A1 #39 | /audio/practice/a1/qb-a1-h-035.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Hallo Herr Hartmann, hier spricht Ihre Nachbarin Frau Lange aus dem zweiten Stock links. Der Paketbote hat heute Vormittag Ihr großes Paket bei mir abgegeben. Ich bin heute Abend ab 18:15 Uhr zu Hause. Klingeln Sie dann einfach kurz bei „Lange“!</prosody>
+  </voice>
+</speak>

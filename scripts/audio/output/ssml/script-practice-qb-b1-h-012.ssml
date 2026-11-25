@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-012 | PRACTICE B1 #16 | /audio/practice/b1/qb-b1-h-012.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Leute, wir müssen kurz über unsere Küche sprechen. In letzter Zeit stand dreimal ungespültes Geschirr zwei Tage lang herum, und keiner weiß genau, wer dran war mit dem Badputz.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Stimmt, unsere alte Regel „Jeder macht es, wenn er Zeit hat“ funktioniert irgendwie nicht mehr seit dem Semesterbeginn.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Einverstanden! Lasst uns doch einen festen Wochenplan an den Kühlschrank hängen: Jede Woche übernimmt einer von uns abwechselnd Bad und Flur, und in der Küche gilt konsequent, dass Töpfe noch am selben Abend gespült werden.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Gute Idee! Und was machen wir mit gemeinsamen Sachen wie Spülmittel, Toilettenpapier und Olivenöl?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Da schlage ich eine gemeinsame Kasse vor: Jeder wirft am Monatsanfang zehn Euro in das Glas auf dem Regal, und wir legen den Kassenbon immer dazu.</prosody>
+  </voice>
+</speak>

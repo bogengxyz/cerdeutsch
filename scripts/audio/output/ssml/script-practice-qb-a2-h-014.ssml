@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-014 | PRACTICE A2 #18 | /audio/practice/a2/qb-a2-h-014.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Felix, du bist am Sonntag beim Stadtmarathon nicht selbst gelaufen, sondern warst Helfer. Was hast du dort gemacht?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Ich stand ab sieben Uhr morgens am Verpflegungsstand bei Kilometer 25. Meine Gruppe hat über tausend Becher Wasser und Bananenstücke an die vorbeilaufenden Sportler gereicht. Am Anfang war es ganz schön hektisch, weil plötzlich riesige Gruppen gleichzeitig ankamen. Aber die Stimmung war fantastisch — viele Läufer haben uns noch im Vorbeilaufen zugelächelt und Danke gerufen. Nächstes Jahr möchte ich übrigens selbst den Halbmarathon mitlaufen!</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-027 | PRACTICE B2 #31 | /audio/practice/b2/qb-b2-h-027.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">In vielen Bachelor-Studiengängen ist ein fünf- bis sechsmonatiges Pflichtpraktikum fest verankert. Anfangs sehen manche Studierende darin vor allem eine organisatorische Hürde vor der Abschlussarbeit. Eine Befragung an vier Fachhochschulen zeigt jedoch ein eindeutiges Muster: Wer nach dem Praxissemester in den Hörsaal zurückkehrt, wählt Bachelor-Themen gezielter und erzielt im Durchschnitt spürbar bessere Noten.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Der Grund ist ganz einfach: Nach realen Projektbesprechungen mit Kunden oder Laborversuchen erscheinen abstrakte Theorien plötzlich als konkrete Werkzeuge. Außerdem knüpfen fast sechzig Prozent der Absolventinnen über das Praxissemester bereits den Kontakt zu ihrem späteren ersten Arbeitgeber.</prosody>
+  </voice>
+</speak>

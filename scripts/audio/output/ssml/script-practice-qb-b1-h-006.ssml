@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-006 | PRACTICE B1 #10 | /audio/practice/b1/qb-b1-h-006.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Studio „AktivPunkt“, guten Tag! Mein Name ist Sandra Klein.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Hallo Frau Klein, hier ist Daniel Meier. Ich arbeite viel am Schreibtisch und habe oft Rückenschmerzen. Bieten Sie ein unverbindliches Probetraining an?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Sehr gern! Bei Rückenschmerzen empfehle ich zuerst unseren Kurs „Starker Rücken“, der immer dienstags und donnerstags um 18:30 Uhr stattfindet. Vorher macht ein Trainer einen kurzen Fitnesstest mit Ihnen und zeigt die passenden Geräte.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Das klingt prima. Was kostet das Probetraining, und was muss ich mitbringen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Das erste Training inklusive Beratung ist komplett kostenlos. Bringen Sie einfach saubere Sportschuhe mit heller Sohle, ein Handtuch und etwas zu trinken mit. Soll ich Sie direkt für diesen Donnerstag um 18 Uhr vormerken?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Ja, Donnerstag um 18 Uhr passt perfekt!</prosody>
+  </voice>
+</speak>

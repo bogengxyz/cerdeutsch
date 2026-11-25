@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-b1-t1 | GOETHE B1 #1 | /audio/exams/goethe/b1/teil1-radio-nachrichten.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Hier ist das Regionalradio mit den Meldungen zur Mittagszeit. Ab fünfzehn Uhr ziehen kräftige Windböen über unsere Region, die im Bergland Geschwindigkeiten bis achtzig Kilometer pro Stunde erreichen können.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Die Feuerwehr rät deshalb dringend davon ab, am Nachmittag im Wald spazieren zu gehen, da Äste herabfallen können. Auch Gartenmöbel und lose Gegenstände auf Balkonen sollten rechtzeitig gesichert werden. Erst gegen Mitternacht beruhigt sich das Wetter langsam.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

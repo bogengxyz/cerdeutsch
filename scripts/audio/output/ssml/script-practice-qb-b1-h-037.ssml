@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-037 | PRACTICE B1 #41 | /audio/practice/b1/qb-b1-h-037.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Jede betriebliche Ausbildung in Deutschland beginnt gesetzlich mit einer Probezeit, die mindestens einen Monat und höchstens vier Monate dauert. In dieser Zeit sollen Betrieb und Azubi prüfen, ob Beruf und Team wirklich zusammenpassen. Während der Probezeit können beide Seiten den Vertrag jederzeit schriftlich und ohne Angabe von Gründen mit sofortiger Wirkung kündigen. Wichtig zu wissen: Urlaubsanspruch sammelt man trotzdem ab dem ersten Tag, und auch Berufsschulzeit zählt selbstverständlich voll zur Arbeitszeit! Wer krank wird, muss seinem Betrieb sofort morgens Bescheid geben und ab dem vereinbarten Tag ein ärztliches Attest vorlegen – längere Krankheit verlängert die Probezeit übrigens nicht automatisch, außer es steht ausdrücklich anders im Vertrag oder bei extrem langen Ausfällen.</prosody>
+  </voice>
+</speak>

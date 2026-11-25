@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-011 | PRACTICE B2 #15 | /audio/practice/b2/qb-b2-h-011.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Frau Dr. Kern, oft lesen wir Online-Schlagzeilen wie „Kaffee schützt sicher vor Herzkrankheiten“. Warum greifen Sie sich bei solchen Sätzen manchmal an den Kopf?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Weil dabei fast immer ein Zusammenhang – also eine statistische Korrelation – mit einer direkten Ursache verwechselt wird. Wenn eine Studie an tausend Personen zeigt, dass Kaffeetrinker etwas seltener erkranken, könnte der wahre Grund ganz woanders liegen, etwa an regelmäßigen Arbeitspausen oder Bewegung.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Woran erkennen Leserinnen seriöse Berichterstattung über Forschung?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Daran, dass Journalisten erwähnen, wie groß die Stichprobe war, ob es eine Kontrollgruppe gab und welche Einschränkungen die Autorinnen selbst im Fachartikel benennen.</prosody>
+  </voice>
+</speak>

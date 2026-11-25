@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-b2-hoeren-1 | PRACTICE B2 #1 | /audio/practice/b2/b2-hoeren-1.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Frau Dr. Klein, warum steigen im ländlichen Raum noch zu wenige Menschen auf Bus und Bahn um?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="+4%">Entscheidend ist nicht allein der Ticketpreis oder die Einrichtung neuer Linien am Vormittag, sondern vor allem eine verlässliche Taktung am späten Abend und am Wochenende. Nur wenn diese Grundversorgung garantiert ist, wird das eigene Auto verzichtbar.</prosody>
+  </voice>
+</speak>

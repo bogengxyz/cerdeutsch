@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-004 | PRACTICE A1 #8 | /audio/practice/a1/qb-a1-h-004.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Sie sind verbunden mit der Stadtbücherei Nord. Unsere aktuellen Öffnungszeiten: Montag bis Freitag von 10:00 bis 19:00 Uhr, am Samstag von 09:30 bis 13:30 Uhr. Am Sonntag bleibt die Bücherei geschlossen. Bücher können Sie auch abends am Rückgabeautomaten vor dem Eingang einwerfen.</prosody>
+  </voice>
+</speak>

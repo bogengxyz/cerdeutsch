@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-b1-t3 | GOETHE B1 #3 | /audio/exams/goethe/b1/goethe-b1-teil3-erfahrung.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Lena, du trainierst seit zwei Jahren eine Jugendmannschaft im Basketball, obwohl du voll studierst. Warum machst du das?</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Eigentlich wollte ich nach dem Umzug nur selbst wieder Sport treiben. Als unser Verein händeringend jemanden für die Zwölfjährigen suchte, bin ich eingesprungen – und geblieben.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Was hat dir diese Aufgabe persönlich gebracht?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Vor allem Geduld und klare Kommunikation! Früher wurde ich schnell nervös, wenn ich vor Gruppen sprechen musste. Heute plane ich Turniere, rede entspannt mit Eltern und habe echte Freundinnen gefunden.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

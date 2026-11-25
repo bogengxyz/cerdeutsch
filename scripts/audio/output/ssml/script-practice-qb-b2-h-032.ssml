@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-032 | PRACTICE B2 #36 | /audio/practice/b2/qb-b2-h-032.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Fast der gesamte weltweite Internet- und Finanzdatenverkehr läuft nicht über Satelliten im All, sondern durch rund fünfhundert Glasfaserkabel auf dem Meeresgrund – manche davon kaum dicker als ein Gartenschlauch. Werden solche Leitungen durch Schiffsanker oder Sabotage beschädigt, drohen empfindliche Störungen im internationalen Datennetz.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Deshalb überwachen autonome Unterwasserfahrzeuge heute kritische Trassen in bis zu zweitausend Metern Tiefe. Sie kartieren mit hochauflösendem Sonar den Meeresboden, erkennen kleinste Bewegungen an den Kabeln und senden bei Auffälligkeiten sofort verschlüsselte Meldungen an Küstenstationen, sobald sie auftauchen.</prosody>
+  </voice>
+</speak>

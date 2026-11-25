@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-020 | PRACTICE B1 #24 | /audio/practice/b1/qb-b1-h-020.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Viele Menschen glauben, eine echte Pause am Arbeitsplatz bedeute, zwanzig Minuten lang sitzen zu bleiben und Nachrichten auf dem Handy zu lesen. Doch für das Gehirn und die Augen ist das kaum Erholung, weil man weiterhin auf einen nahen Bildschirm starrt. Arbeitsmedizinerinnen empfehlen die einfache 20-20-20-Regel für die Augen: Alle zwanzig Minuten sollte man für mindestens zwanzig Sekunden aus dem Fenster auf einen Punkt blicken, der rund zwanzig Meter entfernt liegt – das entspannt die Augenmuskeln spürbar. Außerdem sollte eine Mittagspause nicht neben der Tastatur verbracht werden. Selbst ein kurzer Spaziergang von zehn Minuten an der frischen Luft senkt Stresshormone und sorgt dafür, dass man am Nachmittag wieder wacher arbeitet als nach zwei Tassen Espresso.</prosody>
+  </voice>
+</speak>

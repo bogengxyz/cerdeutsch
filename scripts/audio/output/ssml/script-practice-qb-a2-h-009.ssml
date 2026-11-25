@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-009 | PRACTICE A2 #13 | /audio/practice/a2/qb-a2-h-009.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Guten Tag, was kann ich für Sie tun?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-6%">Hallo, ich war gestern den ganzen Nachmittag am See und habe vergessen, meine Schultern einzucremen. Jetzt ist die Haut knallrot und brennt ziemlich.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Oh ja, das ist ein ordentlicher Sonnenbrand. Ich gebe Ihnen dieses kühlende Gel mit Aloe vera. Tragen Sie es dreimal täglich dünn auf, dann beruhigt sich die Haut schnell. Wichtig: Gehen Sie in den nächsten drei Tagen bitte nicht in die pralle Sonne und trinken Sie heute besonders viel Wasser. Wenn sich Blasen bilden sollten, gehen Sie bitte zum Arzt.</prosody>
+  </voice>
+</speak>

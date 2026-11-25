@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-002 | PRACTICE A1 #6 | /audio/practice/a1/qb-a1-h-002.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Hallo Papa! Kommt ihr am Sonntag wirklich schon um elf Uhr zu uns?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-12%">Ja, klar! Deine Mutter möchte dir beim Kochen helfen, und deine Schwester Sarah bringt unseren Hund Bruno mit. Habt ihr genug Stühle auf dem Balkon?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Kein Problem, wir haben sechs Stühle.</prosody>
+  </voice>
+</speak>

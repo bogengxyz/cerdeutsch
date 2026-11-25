@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-016 | PRACTICE B1 #20 | /audio/practice/b1/qb-b1-h-016.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Guten Tag, wie kann ich Ihnen helfen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Guten Tag! Ich habe gestern hier diese Bluetooth-Kopfhörer gekauft, aber leider funktioniert die linke Seite überhaupt nicht. Außerdem habe ich auf dem Kassenbon gesehen, dass 59 Euro abgerechnet wurden, obwohl am Regal ein Aktionsschild mit 45 Euro stand.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Oh, das tut mir leid! Darf ich bitte kurz den Kassenbon und die Verpackung sehen? ... Ja, tatsächlich: Die Aktion hat gestern begonnen und wurde im System wohl falsch hinterlegt. Möchten Sie ein neues Paar Kopfhörer zum Aktionspreis von 45 Euro und die 14 Euro Differenz zurück, oder sollen wir den gesamten Betrag erstatten?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Wenn Sie noch ein funktionierendes Modell vorrätig haben, nehme ich sehr gern die neuen Kopfhörer und die 14 Euro zurück.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Wir testen das neue Gerät hier am Schalter gleich kurz mit Ihrem Handy, damit Sie sicher sind!</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-027 | PRACTICE A1 #31 | /audio/practice/a1/qb-a1-h-027.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-12%">Willkommen beim Stadtlauf! Bitte achten Sie bei Kilometer 4 und Kilometer 8 auf die Wasserstationen. Wenn jemand Schmerzen im Bein oder Knöchel hat, bleiben Sie bitte sofort stehen und rufen Sie einen Helfer in gelber Weste. Im Zielbereich warten Äpfel, Bananen und kostenloser Tee auf alle Läufer.</prosody>
+  </voice>
+</speak>

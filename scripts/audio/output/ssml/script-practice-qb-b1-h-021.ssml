@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-021 | PRACTICE B1 #25 | /audio/practice/b1/qb-b1-h-021.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Tobias, du warst zehn Monate als Austauschschüler in Vancouver. Was war am Anfang besonders ungewohnt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Am ersten Schultag war ich total überrascht, dass man sich seinen Stundenplan selbst aus Fächern wie Fotografie, Holzwerkstatt und Informatik zusammenstellen kann – dafür hatte man aber jeden Tag dieselben sechs Fächer bis 15 Uhr. Sprachlich klappte der Unterricht nach vier Wochen richtig gut, nur die vielen Abkürzungen auf dem Schulhof musste ich erst lernen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Wie war das Leben in deiner Gastfamilie?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Herzlich, aber am Anfang gab es eine lustige Regel: Schuhe mussten immer direkt auf eine Matte an der Tür, und sonntags haben wir alle zusammen Pancakes gebacken. Wenn ich zurückblicke, bin ich vor allem viel selbstständiger geworden.</prosody>
+  </voice>
+</speak>

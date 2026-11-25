@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-004 | PRACTICE B2 #8 | /audio/practice/b2/qb-b2-h-004.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="+4%">Warum summen viele Erwachsene noch heute eine fünfsekündige Kaufhaus-Melodie aus ihrer Kindheit, während sie wichtige Fachbegriffe vom Vortag sofort vergessen? Musikpsychologin Prof. Brandt erklärt das Phänomen mit dem sogenannten Wiederholungseffekt und emotionaler Kopplung. Kurze Jingles nutzen bewusst einfache Intervalle, einen klaren Rhythmus und genau ein einprägsames Wort am Höhepunkt der Tonfolge.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="+4%">Besonders stark wirkt Musik, wenn sie während entspannter Alltagssituationen gehört wird – dann speichert unser Gehirn den Klang mühelos im Langzeitgedächtnis ab. Wer dieses Prinzip fürs Sprachenlernen nutzen möchte, kann sich schwierige Redewendungen rhythmisch laut vorsprechen oder mit kurzen Melodien verbinden.</prosody>
+  </voice>
+</speak>

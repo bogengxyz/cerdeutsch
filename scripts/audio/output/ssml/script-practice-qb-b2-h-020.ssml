@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-020 | PRACTICE B2 #24 | /audio/practice/b2/qb-b2-h-020.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="+4%">Als vor wenigen Jahren Halbleiter knapp wurden, standen ganze Autowerke in Deutschland still, weil Bauteile für wenige Euro aus Ostasien fehlten. Mit dem europäischen Chip-Gesetz wollen Regierungen nun wieder mehr eigene Produktion nach Europa holen und locken Konzerne mit hohen Subventionen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="+4%">Strategisch ist mehr Unabhängigkeit bei Standardchips für Industrie und Energieversorgung zweifellos sinnvoll. Gleichzeitig warnen wir Ökonomen vor einem reinen Subventionswettlauf: Eine einzige Fabrik braucht nicht nur Milliardenbeträge, sondern auch tausende hochspezialisierte Ingenieurinnen, extrem reines Wasser und langfristig bezahlbaren Strom. Ohne Fachkräfte und Forschung vor Ort bleiben neue Werke teure Inseln.</prosody>
+  </voice>
+</speak>

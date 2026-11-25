@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-017 | PRACTICE A2 #21 | /audio/practice/a2/qb-a2-h-017.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Haben Sie schon gewählt?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Ja, gern! Ich nehme einmal die Hähnchenbrust vom Grill. Aber eine Frage: Kann ich statt der Pommes frites einen großen gemischten Salat bekommen? Ich esse abends lieber etwas Leichteres.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Natürlich, das tauschen wir ohne Aufpreis aus. Welches Dressing hätten Sie gern — Joghurt oder Essig-Öl?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Bitte Essig-Öl, ich vertrage leider keine Milchprodukte. Und dazu eine große Apfelschorle mit viel Eis.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Alles notiert! Das Essen dauert etwa zwanzig Minuten.</prosody>
+  </voice>
+</speak>

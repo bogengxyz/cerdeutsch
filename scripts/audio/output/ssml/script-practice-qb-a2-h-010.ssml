@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-010 | PRACTICE A2 #14 | /audio/practice/a2/qb-a2-h-010.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="-6%">Liebe Badegäste, herzlich willkommen im Stadtbad Nord! Wir möchten Sie darauf hinweisen, dass heute Abend ab 19:00 Uhr zwei Bahnen im Sportbecken für unseren Wassergymnastikkurs reserviert sind. Alle anderen Schwimmerinnen und Schwimmer können weiterhin die Bahnen eins bis vier nutzen. Außerdem findet um 19:30 Uhr in unserer finnischen Sauna der nächste Kräuter-Aufguss statt. Bitte denken Sie daran, das Schwimmbecken bis 21:45 Uhr zu verlassen, da das Bad um 22:00 Uhr schließt.</prosody>
+  </voice>
+</speak>

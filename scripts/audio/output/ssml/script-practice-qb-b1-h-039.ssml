@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-039 | PRACTICE B1 #43 | /audio/practice/b1/qb-b1-h-039.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Mama, wir haben jetzt die vorläufige Gästeliste für unsere Hochzeit im August erstellt – wir kommen auf fünfundsechzig Personen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Oh, das ist eine richtig schöne Größe! Habt ihr denn auch an Onkel Peter und seine zwei Kinder gedacht?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Klar, die stehen schon mit drauf! Uns ist wichtig, dass es keine steife Feier mit fünfstündigem Sitzprogramm wird. Nach der standesamtlichen Trauung um 14 Uhr möchten wir im Garten des Landgasthofs einfach Sektempfang, Kuchen und abends ein lockeres Grillbuffet haben.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Das klingt ganz nach euch! Kann ich euch vielleicht beim Organisieren der Musik oder bei der Blumendeko helfen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Sehr gern! Bei der Tischdeko mit Sommerblumen freuen wir uns riesig über deine Hilfe.</prosody>
+  </voice>
+</speak>

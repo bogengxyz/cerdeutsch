@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-goethe-b2-t4 | GOETHE B2 #4 | /audio/exams/goethe/b2/goethe-b2-teil4-praesentation.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Meine Damen und Herren, fast vierzig Prozent unseres Abfallaufkommens stammen aus der Bau- und Abrissbranche. Bisher wurden Stahlträger, Dämmplatten und Fassadenelemente oft untrennbar verklebt, sodass beim Rückbau nur gemischter Bauschutt blieb.</prosody>
+    <break time="650ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Mit lösbaren Schraubverbindungen und einem digitalen Gebäudepass betrachten wir künftige Häuser als temporäre Rohstofflager: Jedes intakte Bauteil lässt sich Jahrzehnte später sortenrein demontieren und anderswo wiederverwenden.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

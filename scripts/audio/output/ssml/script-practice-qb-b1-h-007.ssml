@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-007 | PRACTICE B1 #11 | /audio/practice/b1/qb-b1-h-007.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Hallo Frau Brandt! Danke noch einmal, dass Sie gestern meine drei großen Pakete angenommen haben.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Sehr gern, Herr Yilmaz! Wenn man im Homeoffice arbeitet, hört man die Klingel ja sowieso. Übrigens wollte ich Sie etwas fragen: Wir fahren nächste Woche von Montag bis Samstag zu unseren Kindern nach München. Könnten Sie vielleicht unseren Briefkasten leeren und zweimal die Balkonpflanzen gießen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Aber natürlich, das mache ich doch gern! Haben Sie denn empfindliche Pflanzen, die jeden Tag Wasser brauchen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Nein, die Tomaten brauchen nur jeden zweiten Tag einen Schuss aus der grünen Kanne auf dem Balkon. Den Ersatzschlüssel lege ich Ihnen am Sonntagabend noch in den Briefkasten.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="0%">Prima, und falls etwas Wichtiges sein sollte, haben Sie ja meine Handynummer.</prosody>
+  </voice>
+</speak>

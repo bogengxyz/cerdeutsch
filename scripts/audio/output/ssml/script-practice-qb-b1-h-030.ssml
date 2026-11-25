@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-030 | PRACTICE B1 #34 | /audio/practice/b1/qb-b1-h-030.mp3 -->
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Herzlich willkommen in unserer Zentralbibliothek! Mit Ihrem Studierendenausweis können Sie bis zu zwanzig Bücher gleichzeitig für jeweils vier Wochen ausleihen. Falls kein anderer Nutzer ein Buch vorgemerkt hat, lässt sich die Leihfrist bequem im Online-Konto bis zu dreimal verlängern. Wer bei einer Hausarbeit ein Fachbuch braucht, das in unserem Haus nicht vorhanden ist, nutzt einfach unseren Fernleihe-Service: Gegen eine kleine Bearbeitungsgebühr von anderthalb Euro bestellen wir den Band innerhalb von rund einer Woche aus einer anderen deutschen Universität. Bitte denken Sie in den Lesesälen der zweiten und dritten Etage an absolute Ruhe; Gruppenräume zum gemeinsamen Diskutieren können Sie stundenweise im Erdgeschoss reservieren.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b2-h-036 | PRACTICE B2 #40 | /audio/practice/b2/qb-b2-h-036.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="+4%">Wer an einer Hauptstraße in Freiburg, Dresden oder Leipzig auf die Straßenbahn wartet, blickt unter den Schienen häufig nicht auf grauen Schotter, sondern auf grünes Gras oder robuste Fetthenne. Verkehrsbetriebe legen inzwischen hunderte Kilometer solcher „Rasengleise“ an.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="+4%">Der Nutzen ist dreifach: Erstens schluckt der lockere Boden unter den Schienen einen erheblichen Teil des Roll- und Bremslärms der Bahnen – Anwohner messen bis zu drei Dezibel weniger Lärm. Zweitens versickert Regenwasser direkt vor Ort statt bei Starkregen die Kanalisation zu überlasten. Und drittens kühlt die Bepflanzung heiße Kreuzungen an Sommertagen spürbar ab.</prosody>
+  </voice>
+</speak>

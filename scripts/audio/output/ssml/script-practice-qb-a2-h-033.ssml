@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-033 | PRACTICE A2 #37 | /audio/practice/a2/qb-a2-h-033.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Guten Tag Frau Bauer, hier spricht Herr Hoffmann von der Werkstatt AutoFit. Ihr Wagen steht gerade auf der Hebebühne für die Jahresinspektion. Ölwechsel und Filter sind bereits erledigt. Dabei haben wir jedoch festgestellt, dass die beiden vorderen Scheibenwischer komplett porös sind und das Abblendlicht links ausgefallen ist. Der Austausch von Wischern und Birne kostet zusammen 45 Euro extra. Wenn wir Ihr Okay bekommen, ist das Auto bis heute Nachmittag um 16:30 Uhr abholbereit. Rufen Sie mich bitte kurz zurück!</prosody>
+  </voice>
+</speak>

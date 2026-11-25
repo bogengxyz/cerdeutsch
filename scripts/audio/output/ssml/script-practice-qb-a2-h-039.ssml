@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-039 | PRACTICE A2 #43 | /audio/practice/a2/qb-a2-h-039.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Hallo ihr Lieben! Ich war gestern zum ersten Mal allein einen Nachmittag lang in Bremen und wollte keine große Touristengruppe mitmachen. Stattdessen habe ich mir bei der Touristeninformation für sechs Euro einen Audioguide auf Deutsch ausgeliehen. So konnte ich mein eigenes Tempo gehen, zwischendurch im Schnoorviertel einen Kaffee trinken und trotzdem spannende Geschichten über das alte Rathaus und die Stadtmusikanten hören. Der Spaziergang hat zweieinhalb Stunden gedauert und war super verständlich — echte Empfehlung!</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-telc-b1-t1 | TELC B1 #1 | /audio/exams/telc/b1/teil1-globalverstehen.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Letztes Jahr lagen wir im Juli zwei Wochen am Strand, aber diese drückende Hitze über dreißig Grad war mir ehrlich gesagt viel zu anstrengend. Diesmal wünsche ich mir frische Luft, grüne Wiesen und lange Wanderungen in den Alpen – auch wenn man dort mal eine Regenjacke einpacken muss.</prosody>
+    <break time="500ms"/>
+  </voice>
+</speak>

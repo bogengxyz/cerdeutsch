@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a2-hoeren-1 | PRACTICE A2 #1 | /audio/practice/a2/a2-hoeren-1.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Praxis Dr. Hoffmann, guten Tag! Sie können am Donnerstag um 10:15 Uhr zur Untersuchung kommen. Bitte bringen Sie Ihre Versichertenkarte und Ihren Impfpass mit. Wenn Sie den Termin nicht wahrnehmen können, rufen Sie uns bitte einen Tag vorher an.</prosody>
+  </voice>
+</speak>

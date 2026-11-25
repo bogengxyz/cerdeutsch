@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix DeutschMeister AI",
+  "description": "Kostenlose Lernplattform für Deutsch von A1 bis B2 sowie Prüfungsvorbereitung auf Goethe-Zertifikat und telc Deutsch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-040 | PRACTICE A1 #44 | /audio/practice/a1/qb-a1-h-040.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Guten Abend!</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="-12%">Guten Abend, ich brauche morgen früh um 05:45 Uhr ein Taxi zur Lindenallee 8. Es geht zum Hauptbahnhof. Ich habe zwei große Koffer dabei.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Kein Problem, wir schicken einen großen Kombi pünktlich um Viertel vor sechs.</prosody>
+  </voice>
+</speak>

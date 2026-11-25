@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-036 | PRACTICE B1 #40 | /audio/practice/b1/qb-b1-h-036.mp3 -->
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Ab Donnerstag läuft im Kino „Stille Berge“ – ein Dokumentarfilm über zwei Geschwister, die hoch in den Alpen einen alten Bauernhof weiterführen. Max, wie hat er dir gefallen?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-FlorianMultilingualNeural">
+    <prosody rate="0%">Die Kameraaufnahmen im Winter sind atemberaubend, und man spürt den Respekt vor der harten Arbeit der Familie. Mir fehlte allerdings etwas kritische Einordnung: Man erfährt kaum, wie sich der Klimawandel auf den Tourismus im Tal auswirkt.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-SeraphinaMultilingualNeural">
+    <prosody rate="0%">Und wie siehst du das, Katja?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="0%">Genau diesen ruhigen Blick fand ich gerade stark! Statt alle Probleme in neunzig Minuten zu erklären, begleitet der Film die Geschwister schlicht ein ganzes Jahr lang mit echten Dialogen im Dialekt – zum Glück mit gut lesbaren Untertiteln. Für einen ruhigen Kinoabend ohne schnelle Effekte unbedingt sehenswert!</prosody>
+  </voice>
+</speak>

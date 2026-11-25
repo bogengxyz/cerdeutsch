@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a1-h-025 | PRACTICE A1 #29 | /audio/practice/a1/qb-a1-h-025.mp3 -->
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Hallo Katja, was arbeitest du eigentlich?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-12%">Ich bin Buchhändlerin und arbeite in einem kleinen Laden in der Altstadt. Und du, Sven?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="-12%">Ich bin Busfahrer bei den Stadtwerken. Meine Arbeit beginnt manchmal schon um fünf Uhr früh, das ist oft anstrengend, aber ich mag den Kontakt mit den Menschen.</prosody>
+  </voice>
+</speak>

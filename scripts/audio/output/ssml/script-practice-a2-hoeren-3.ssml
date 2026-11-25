@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-a2-hoeren-3 | PRACTICE A2 #3 | /audio/practice/a2/a2-hoeren-3.mp3 -->
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Kann ich Ihnen helfen?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Ja, ich suche eine Regenjacke in Größe M.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Diese blaue Jacke hier ist wasserdicht und kostet 59 Euro.</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="-6%">Haben Sie die auch in Grün?</prosody>
+    <break time="600ms"/>
+  </voice>
+  <voice name="de-DE-KatjaNeural">
+    <prosody rate="-6%">Leider nur noch in Blau und Schwarz. Sie können sie aber innerhalb von 14 Tagen mit dem Kassenbon umtauschen.</prosody>
+  </voice>
+</speak>

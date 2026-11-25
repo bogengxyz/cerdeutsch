@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-b1-h-014 | PRACTICE B1 #18 | /audio/practice/b1/qb-b1-h-014.mp3 -->
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Herr Kusuma, vielen Dank für Ihre aussagekräftigen Unterlagen. In unserer Anzeige haben wir eine Assistenz für die Projektkoordination gesucht. Was reizt Sie besonders an dieser Aufgabe?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">In meiner letzten Stelle habe ich gemerkt, wie gern ich Termine, Dokumente und Gespräche zwischen Kundinnen und Bauteams organisiere. Ich behalte auch dann den Überblick, wenn mehrere Aufgaben gleichzeitig anstehen.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Und wie reagieren Sie, wenn ein Projektpartner eine Zeichnung nicht pünktlich abgibt?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Ich warte ungern bis zur letzten Minute, sondern frage schon zwei Tage vorher freundlich nach, ob noch Unterlagen fehlen. Falls es wirklich knapp wird, bespreche ich sofort im Team, welche Lösung realistisch ist.</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-AmalaNeural">
+    <prosody rate="0%">Das gefällt mir sehr gut. Haben Sie denn selbst noch eine Frage an uns?</prosody>
+    <break time="450ms"/>
+  </voice>
+  <voice name="de-DE-KillianNeural">
+    <prosody rate="0%">Ja, sehr gern: Wie sieht bei Ihnen die Einarbeitung in den ersten vier Wochen aus?</prosody>
+  </voice>
+</speak>

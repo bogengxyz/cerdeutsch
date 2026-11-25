@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="de-DE">
+  <!-- script-practice-qb-a2-h-026 | PRACTICE A2 #30 | /audio/practice/a2/qb-a2-h-026.mp3 -->
+  <voice name="de-DE-ConradNeural">
+    <prosody rate="-6%">Hier ist der regionale Ausflugswetterbericht für das Wochenende! Am Samstagvormittag hält sich im Tal noch etwas Nebel, doch ab elf Uhr setzt sich überall die Sonne durch bei angenehmen 21 Grad. Das sind perfekte Bedingungen für Bergwanderungen bis auf 1.800 Meter Höhe. Vergessen Sie oben aber keine winddichte Jacke, da der Wind ab dem Nachmittag etwas frischer wird. Am Sonntag ziehen ab 15 Uhr von Westen her dichte Wolken auf, und am späten Abend folgen örtlich erste Regenschauer.</prosody>
+  </voice>
+</speak>
