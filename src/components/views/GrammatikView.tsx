@@ -17,6 +17,7 @@ import { Exercise } from '../../types/exercise';
 import { CEFRLevel } from '../../types/learning';
 import { BookmarkCollection, MistakeRecord } from '../../types/phase4';
 import { ExerciseScoreRecord } from '../../types/progress';
+import { SatzbauTrainer } from '../grammar/SatzbauTrainer';
 import { RandomPracticePanel } from '../practice/RandomPracticePanel';
 import { TouchButton } from '../ui/TouchFlowPrimitives';
 
@@ -34,6 +35,7 @@ interface GrammatikViewProps {
   mistakes?: MistakeRecord[];
   bookmarks?: BookmarkCollection;
   recentQuestionIds?: string[];
+  soundEnabled?: boolean;
 }
 
 export function GrammatikView({
@@ -50,6 +52,7 @@ export function GrammatikView({
   mistakes = [],
   bookmarks,
   recentQuestionIds = [],
+  soundEnabled = true,
 }: GrammatikViewProps) {
   const [search, setSearch] = useState('');
   const [visibleExCount, setVisibleExCount] = useState(12);
@@ -121,6 +124,8 @@ export function GrammatikView({
           })}
         </div>
       </section>
+
+      <SatzbauTrainer levelFilter={levelFilter} soundEnabled={soundEnabled} />
 
       <div className="relative max-w-md">
         <Search className="w-4 h-4 text-[#7C756D] absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none" />

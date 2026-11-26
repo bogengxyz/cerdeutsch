@@ -961,6 +961,7 @@ export default function App() {
                 mistakes={mistakes}
                 bookmarks={bookmarks}
                 recentQuestionIds={recentQuestionIds}
+                soundEnabled={settings.soundEnabled}
               />
             )}
 

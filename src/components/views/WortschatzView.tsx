@@ -35,6 +35,7 @@ import { ExerciseScoreRecord } from '../../types/progress';
 import { RandomPracticePanel } from '../practice/RandomPracticePanel';
 import { TouchButton } from '../ui/TouchFlowPrimitives';
 import { FlashcardTrainer } from '../vocab/FlashcardTrainer';
+import { QuickWortschatzQuiz } from '../vocab/QuickWortschatzQuiz';
 import { VocabProgressDashboard } from '../vocab/VocabProgressDashboard';
 import { VocabQuizTrainer } from '../vocab/VocabQuizTrainer';
 
@@ -176,6 +177,19 @@ export function WortschatzView({
         </div>
       </section>
 
+      {/* Quick Flashcard & Typing Quiz (Unlimited, Collapsible) */}
+      {!loading && words.length > 0 && (
+        <QuickWortschatzQuiz
+          words={filtered.length > 0 ? filtered : words}
+          allLevelWords={words}
+          srsSchedule={srsSchedule}
+          onRateFlashcard={onRateFlashcard}
+          soundEnabled={soundEnabled}
+          activeLevelLabel={levelFilter === 'Alle' ? 'Semua Level' : `Level ${levelFilter}`}
+          activeTopicLabel={effectiveTopicFilter === 'Alle' ? 'Semua Topik' : effectiveTopicFilter}
+        />
+      )}
+
       {/* Mode Switcher: Vokabelliste vs. Karteikarten vs. Trainer vs. Dashboard */}
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div
@@ -195,7 +209,7 @@ export function WortschatzView({
             }`}
           >
             <List className="w-4 h-4" />
-            Vokabelliste
+            Daftar Kata / Vokabelliste
           </button>
           <button
             type="button"
@@ -209,7 +223,7 @@ export function WortschatzView({
             }`}
           >
             <Layers className="w-4 h-4" />
-            Karteikarten ({dueCount > 0 ? `${dueCount} fällig` : 'Trainer'})
+            Flashcard ({dueCount > 0 ? `${dueCount} perlu review` : 'Karteikarten'})
           </button>
           <button
             type="button"
@@ -223,7 +237,7 @@ export function WortschatzView({
             }`}
           >
             <Gamepad2 className="w-4 h-4" />
-            Vokabel-Trainer
+            Kuis / Vokabel-Trainer
           </button>
           <button
             type="button"
@@ -237,7 +251,7 @@ export function WortschatzView({
             }`}
           >
             <BarChart3 className="w-4 h-4" />
-            Fortschritt & Dashboard
+            Progres & Dashboard
           </button>
         </div>
 
